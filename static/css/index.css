@@ -40,13 +40,14 @@ ul {
 
 .thumbnail {
   border:0px;
+  background-color: inherit;
 }
 
 .thumbnail > img {
   padding-bottom: 10px;
 }
 
-#simone {
+#biografie {
   background-color: #474e5d;
   color: white;
 }
@@ -54,6 +55,15 @@ ul {
 #projekte {
   background-color: #b8b8c3;
   color: black;
+}
+
+#projekte p {
+  text-align: justify;
+}
+
+#fotos {
+  background-color: #474e5d;
+  color: white;
 }
 
 #projekte img {
