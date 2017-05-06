@@ -1,0 +1,12 @@
+{{ "<!-- Agenda -->" | safeHTML }}
+<div id="agenda" class="container-fluid content text-center">
+
+  <h1>Agenda</h1>
+
+  {{ range where .Site.Pages.ByDate "Section" "agenda"}}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    <hr/>
+  {{ end }}
+
+</div>
