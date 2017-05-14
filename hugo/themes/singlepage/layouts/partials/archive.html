@@ -1,0 +1,12 @@
+{{ "<!-- Archive -->" | safeHTML }}
+<div id="archiv" class="container-fluid content text-center">
+
+  <h1>Archiv</h1>
+
+  {{ range where .Site.Pages.ByDate.Reverse "Section" "archive" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    <hr/>
+  {{ end }}
+
+</div>

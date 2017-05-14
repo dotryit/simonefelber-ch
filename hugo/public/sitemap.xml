@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-06-06_gottesdienst_audite/</loc>
+    <lastmod>2017-06-03T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.simonefelber.ch/agenda/2017-05-28_hugo_wolf/</loc>
     <lastmod>2017-05-28T00:00:00+02:00</lastmod>
   </url>
@@ -17,14 +22,35 @@
   </url>
   
   <url>
+    <loc>http://www.simonefelber.ch/archive/2017-04-08_buxdehude/</loc>
+    <lastmod>2017-04-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/2017-04-01_bayrischer_rundfunk/</loc>
+    <lastmod>2017-04-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/2017-03-04_iheimisch/</loc>
+    <lastmod>2017-03-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
-    <lastmod>2017-05-28T00:00:00+02:00</lastmod>
+    <lastmod>2017-06-03T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/</loc>
+    <lastmod>2017-04-08T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.simonefelber.ch/</loc>
-    <lastmod>2017-05-28T00:00:00+02:00</lastmod>
+    <lastmod>2017-06-03T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

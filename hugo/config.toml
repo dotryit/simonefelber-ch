@@ -3,3 +3,6 @@ title = "Simone Felber - Mezzosopran"
 baseurl = "http://www.simonefelber.ch/"
 theme = "singlepage"
 googleAnalytics = "UA-98608711-1"
+
+[blackfriday]
+   hrefTargetBlank = true
