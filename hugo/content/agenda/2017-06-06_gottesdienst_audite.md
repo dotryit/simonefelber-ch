@@ -4,12 +4,13 @@ title = "Gottesdienst mit Audite"
 draft = false
 +++
 
-Gemeinsam mit dem Chor Audite Luzern und Wolfang Sieber an der Orgel gestaltet Simone Felber den Gottesdienst vom 03.06.2017.     
+Ein letztes Mal erklingt am 3.Juni das Programm "Perlen der Romantik" im Gottesdienst. Diesmal in der Hofkirche mit Wolfgang Sieber an der Orgel.     
 Neben dem geistlichen Lied "Herr wir trau'n auf deine Güte" von Felix Medelssohn-Bartholdy erklingen Werke von Anton Bruckner u.a.
 
 * André Emmenegger-Hirschi - Leitung
 * Aline Willi-Jayet - Sopran
 * Simone Felber - Mezzosopran
+* Wolfgang Sieber - Orgel
 
 ### Datum
 

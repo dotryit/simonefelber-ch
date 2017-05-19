@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-07-01_pastoralraumsfest/</loc>
+    <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-06-22_jodlerfest/</loc>
+    <lastmod>2017-06-22T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-06-20_semesterkonzert/</loc>
+    <lastmod>2017-06-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-06-19_in_the_best_of_all_possible_worlds/</loc>
+    <lastmod>2017-06-19T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.simonefelber.ch/agenda/2017-06-06_gottesdienst_audite/</loc>
     <lastmod>2017-06-03T00:00:00+02:00</lastmod>
   </url>
@@ -38,7 +58,7 @@
   
   <url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
-    <lastmod>2017-06-03T00:00:00+02:00</lastmod>
+    <lastmod>2017-07-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,7 +70,7 @@
   
   <url>
     <loc>http://www.simonefelber.ch/</loc>
-    <lastmod>2017-06-03T00:00:00+02:00</lastmod>
+    <lastmod>2017-07-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
