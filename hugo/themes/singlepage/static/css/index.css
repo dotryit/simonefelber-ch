@@ -4,7 +4,11 @@ body {
 }
 
 h1 {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+}
+
+h3 {
+  margin-top: 40px;
 }
 
 p, li {
@@ -17,6 +21,7 @@ p {
 
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
 hr {
@@ -52,11 +57,6 @@ hr {
   padding-bottom: 10px;
 }
 
-#biografie {
-  background-color: #474e5d;
-  color: white;
-}
-
 #projekte {
   background-color: #b8b8c3;
   color: black;
@@ -66,14 +66,14 @@ hr {
   text-align: justify;
 }
 
-#fotos {
-  background-color: #474e5d;
-  color: white;
-}
-
 #projekte img {
   padding-top:20px;
   padding-bottom:20px;
+}
+
+#fotos {
+  background-color: #474e5d;
+  color: white;
 }
 
 #footer {
@@ -84,4 +84,9 @@ hr {
 #newsletter {
   background-color: #b8b8c3;
   color: black;
+}
+
+#unterricht  {
+  background-color: #474e5d;
+  color: white;
 }

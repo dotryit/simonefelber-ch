@@ -1,43 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-07-01_pastoralraumsfest/</loc>
+    <loc>http://www.simonefelber.ch/agenda/2017-10-15_collegium/</loc>
+    <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-09-24_gottesdienst_bruder_klaus/</loc>
+    <lastmod>2017-09-24T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-09-23_chornacht/</loc>
+    <lastmod>2017-09-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-09-09_strassensingen/</loc>
+    <lastmod>2017-09-09T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-09-02_lucerne_festival/</loc>
+    <lastmod>2017-09-02T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-08-24_iheimisch_seebad/</loc>
+    <lastmod>2017-08-24T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/2017-07-01_pastoralraumsfest/</loc>
     <lastmod>2017-07-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-06-22_jodlerfest/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-06-22_jodlerfest/</loc>
     <lastmod>2017-06-22T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-06-20_semesterkonzert/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-06-20_semesterkonzert/</loc>
     <lastmod>2017-06-20T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-06-19_in_the_best_of_all_possible_worlds/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-06-19_in_the_best_of_all_possible_worlds/</loc>
     <lastmod>2017-06-19T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-06-06_gottesdienst_audite/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-06-06_gottesdienst_audite/</loc>
     <lastmod>2017-06-03T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-05-28_hugo_wolf/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-05-28_hugo_wolf/</loc>
     <lastmod>2017-05-28T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-05-21_liederabend/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-05-21_liederabend/</loc>
     <lastmod>2017-05-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-05-01_musik_gottesdienst/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-05-01_musik_gottesdienst/</loc>
     <lastmod>2017-05-01T00:00:00+02:00</lastmod>
   </url>
   
@@ -58,19 +89,29 @@
   
   <url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
-    <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+    <lastmod>2017-10-15T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.simonefelber.ch/archive/</loc>
-    <lastmod>2017-04-08T00:00:00+02:00</lastmod>
+    <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.simonefelber.ch/</loc>
-    <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+    <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/tags/</loc>
     <priority>0</priority>
   </url>
   

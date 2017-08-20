@@ -2,203 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agendas on Simone Felber - Mezzosopran</title>
-    <link>http://www.simonefelber.ch/agenda/index.xml</link>
+    <link>http://www.simonefelber.ch/agenda/</link>
     <description>Recent content in Agendas on Simone Felber - Mezzosopran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
-    <atom:link href="http://www.simonefelber.ch/agenda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.simonefelber.ch/agenda/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Mer hebed ab - Pastoralraumfest</title>
-      <link>http://www.simonefelber.ch/agenda/2017-07-01_pastoralraumsfest/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <title>Gottesdienst Franziskanerkirche Luzern</title>
+      <link>http://www.simonefelber.ch/agenda/2017-10-15_collegium/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-07-01_pastoralraumsfest/</guid>
-      <description>
-
-&lt;h3 id=&#34;jodel-und-währschaftes-einmal-anders&#34;&gt;Jodel und Währschaftes einmal anders&lt;/h3&gt;
-
-&lt;p&gt;Mit dem &lt;a href=&#34;https://www.jugendchor-jutz.ch/&#34; target=&#34;_blank&#34;&gt;Jugendchor jutz.ch&lt;/a&gt; sind wir Teil des &lt;a href=&#34;http://am-rohrdorferberg.ch/#masthead&#34; title=&#34;mer hebed ab&#34; target=&#34;_blank&#34;&gt;Pastoralraumfestes&lt;/a&gt; am Rohrdorferberg.&lt;br /&gt;
-Dort präsententieren wir um 21.00 Uhr Ausschnitte aus unserem aktuellen Programm. Weitere Informationen finden sie &lt;a href=&#34;http://am-rohrdorferberg.ch/das-komplette-programm&#34; target=&#34;_blank&#34;&gt;im Programm des Pastoralraumfestes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;datum&#34;&gt;Datum&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sa, 01.07.2017 // 21.00 Uhr // Gut Hirt, Niederrohrdorf // Bremgartenstrasse 22, 5443 Niederrohrdorf&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://www.simonefelber.ch/agenda/2017-10-15_collegium/</guid>
+      <description> Englische Chormusik von Byrd, Tallis, Purcell u.a
+ Collegium Vocale - Leitung Ulrike Grosch  Datum  So, 15.10.2017 // 11.00 Uhr // Franziskanerkirche Luzern  </description>
     </item>
     
     <item>
-      <title>Eidgenössisches Jodlerfest in Brig</title>
-      <link>http://www.simonefelber.ch/agenda/2017-06-22_jodlerfest/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0200</pubDate>
+      <title>Gottesdienst Bruder Klaus Emmen</title>
+      <link>http://www.simonefelber.ch/agenda/2017-09-24_gottesdienst_bruder_klaus/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-06-22_jodlerfest/</guid>
-      <description>
-
-&lt;h3 id=&#34;so-tönt-das-herz-der-schweiz-30-eidgenössisches-jodlerfest-brig-glis&#34;&gt;So tönt das Herz der Schweiz - 30. Eidgenössisches Jodlerfest Brig - Glis&lt;/h3&gt;
-
-&lt;p&gt;Mit dem &lt;a href=&#34;https://www.jugendchor-jutz.ch/&#34; target=&#34;_blank&#34;&gt;Jugendchor jutz.ch&lt;/a&gt; singen wir dieses Jahr am &lt;a href=&#34;https://www.jodlerfest-brig.ch/de&#34; target=&#34;_blank&#34;&gt;Eidgenössischen Jodlerfest&lt;/a&gt; in Brig.&lt;/p&gt;
-
-&lt;h3 id=&#34;datum-unseres-wertungssingens&#34;&gt;Datum unseres Wertungssingens&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sa, 22.06.2017 // 19.30 Uhr // Kirche des Kollegium Brig // Eintritt - Festkarte oder Tagespass&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://www.simonefelber.ch/agenda/2017-09-24_gottesdienst_bruder_klaus/</guid>
+      <description> Krönungsmesse W. A. Mozart  Kirchenchor der Pfarrei Bruder Klaus - Leitung Fausto Corbo Bettina Bucher - Sopran Simone Felber - Mezzosopran N.N. - Tenor Martin Roth - Bass  Datum  So, 24.09.2017 // 10:00 Uhr // Bruder Klaus Kirche Emmen  </description>
     </item>
     
     <item>
-      <title>Semesterkonzert Volksmusik</title>
-      <link>http://www.simonefelber.ch/agenda/2017-06-20_semesterkonzert/</link>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0200</pubDate>
+      <title>Collegium Vocale</title>
+      <link>http://www.simonefelber.ch/agenda/2017-09-23_chornacht/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-06-20_semesterkonzert/</guid>
-      <description>
-
-&lt;p&gt;Zum Abschluss des &lt;a href=&#34;https://www.hslu.ch/de-ch/musik/agenda/veranstaltungen/2017/06/20/semesterkonzert-volksmusik&#34; title=&#34;Veranstaltungskalender HSLU&#34; target=&#34;_blank&#34;&gt;Workshops &amp;ldquo;Jodel in Theorie &amp;amp; Praxis&amp;rdquo;&lt;/a&gt; präsentieren wir Stücke aus dem Workshop. Im zweiten Teil des Programms spielt die Alpini Vernähmlassig.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Studierende der Hochschule Musik Luzern - Gesang&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;datum&#34;&gt;Datum&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Di, 20.06.2017 // 20:00 Uhr // &lt;a href=&#34;http://www.hausdervolksmusik.ch/index.php/veranstaltungen/konzerte-stubeten&#34; title=&#34;Veranstaltungen Haus der Volksmusik&#34; target=&#34;_blank&#34;&gt;Haus der Volksmusik&lt;/a&gt; // Rapperswil-Jona&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://www.simonefelber.ch/agenda/2017-09-23_chornacht/</guid>
+      <description> Erste Luzerner Chornacht Mit dem Collegium Vocale zu Franzikanern (Leitung Ulrike Grosch) bin ich Teil der ersten Luzerner Chornacht.
+Weitere Informationen sind auf der Homepage des Collegium Vocale zu finden.
+Datum  Sa, 23.09.2017 // 18.30 Uhr // Franziskanerkirche Luzern  </description>
     </item>
     
     <item>
-      <title>...in the best of all possible worlds!</title>
-      <link>http://www.simonefelber.ch/agenda/2017-06-19_in_the_best_of_all_possible_worlds/</link>
-      <pubDate>Mon, 19 Jun 2017 00:00:00 +0200</pubDate>
+      <title>Strassensingen mit jutz.ch</title>
+      <link>http://www.simonefelber.ch/agenda/2017-09-09_strassensingen/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-06-19_in_the_best_of_all_possible_worlds/</guid>
-      <description>
-
-&lt;p&gt;Zum Jahresabschluss des szenischen Unterrichts Oper und StageLab präsentieren wir eine bunte Collage aus verschiedensten Opernszenen.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gesangsklassen der Hochschule Luzern - Musik&lt;/li&gt;
-&lt;li&gt;Regina Heer - Regie&lt;/li&gt;
-&lt;li&gt;Nadia Carboni - Korrepetition&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;datum&#34;&gt;Datum&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mo, 19.06.2017 // 20.00 Uhr // Theater Pavillon Luzern // Spelteriniweg 6, 6005 Luzern&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://www.simonefelber.ch/agenda/2017-09-09_strassensingen/</guid>
+      <description> Genaue Zeiten werden am Tag auf unserer Facebook- und Instagramseite publiziert.
+Datum  Sa, 09.09.2017 // Morgens ab ca. 10.30 Uhr // Altstadt Luzern Sa, 09.09.2017 // Nachmittags ab ca. 14.00 Uhr // Altstadt Basel  </description>
     </item>
     
     <item>
-      <title>Gottesdienst mit Audite</title>
-      <link>http://www.simonefelber.ch/agenda/2017-06-06_gottesdienst_audite/</link>
-      <pubDate>Sat, 03 Jun 2017 00:00:00 +0200</pubDate>
+      <title>Lucerne Festival</title>
+      <link>http://www.simonefelber.ch/agenda/2017-09-02_lucerne_festival/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-06-06_gottesdienst_audite/</guid>
-      <description>
-
-&lt;p&gt;Ein letztes Mal erklingt am 3.Juni das Programm &amp;ldquo;Perlen der Romantik&amp;rdquo; im Gottesdienst. Diesmal in der Hofkirche mit Wolfgang Sieber an der Orgel.&lt;br /&gt;
-Neben dem geistlichen Lied &amp;ldquo;Herr wir trau&amp;rsquo;n auf deine Güte&amp;rdquo; von Felix Medelssohn-Bartholdy erklingen Werke von Anton Bruckner u.a.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;André Emmenegger-Hirschi - Leitung&lt;/li&gt;
-&lt;li&gt;Aline Willi-Jayet - Sopran&lt;/li&gt;
-&lt;li&gt;Simone Felber - Mezzosopran&lt;/li&gt;
-&lt;li&gt;Wolfgang Sieber - Orgel&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;datum&#34;&gt;Datum&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sa, 03.06.2017 // 17:15 Uhr // Hofkirche Luzern&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://www.simonefelber.ch/agenda/2017-09-02_lucerne_festival/</guid>
+      <description> Patricia Kopatchinskaja | Ensemble der LUCERNE FESTIVAL ALUMNI u.a. Alle Informationen und Vorverkauf: Patricia Kopatchinskaja | Ensemble der LUCERNE FESTIVAL ALUMNI u.a.
+Datum  Sa, 02.09.2017 // 22.00 Uhr // Luzerner Saal KKL Luzern  </description>
     </item>
     
     <item>
-      <title>Hugo Wolfs Mörike-Lieder</title>
-      <link>http://www.simonefelber.ch/agenda/2017-05-28_hugo_wolf/</link>
-      <pubDate>Sun, 28 May 2017 00:00:00 +0200</pubDate>
+      <title>Trio iheimisch im Seebad Luzern</title>
+      <link>http://www.simonefelber.ch/agenda/2017-08-24_iheimisch_seebad/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-05-28_hugo_wolf/</guid>
-      <description>
-
-&lt;p&gt;In einer Ein-Tages-Ausstellung präsentiert die Musiktheoretikerin Katharina Thalmann (*1993‚ Luzern) das Ergebnis ihres spartenübergreifenden Experiments zum österreichischen Komponisten und Musikkritiker Hugo Wolf. Insgesamt 53 Kunstschaffende aus der Schweiz, Österreich, Italien und Deutschland hat sie angefragt, um Wolfs Mörike-Lieder ins Visuelle zu übersetzen. Die zentrale Fragestellung lautete: Wie visualisieren Künstler im 21. Jahrhundert spätromantische Lieder aus den 1880er-Jahren? Als Zyklus versammelt sind die künstlerischen Interpretationen im Tat-Ort an der Bernstrasse einen Tag lang zu bestaunen. Die mediale Vielfalt reicht von Zeichnung und Malerei über Collage bis hin zu Text und Fotografie. Auf eine der Vorlagen wurde gar geschossen! Kunst und ein bisschen Krimi im Tat-Ort!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Katharina Thalmann - Klavier&lt;/li&gt;
-&lt;li&gt;Simone Felber - Mezzosopran&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Mehr Informationen zu dieser Veranstaltung im &lt;a href=&#34;http://kalender.null41.ch/content/hugo&#34; title=&#34;HUGO&#34; target=&#34;_blank&#34;&gt;Kulturkalender 041&lt;/a&gt; oder im &lt;a href=&#34;http://tatortbernstrasse.tumblr.com/&#34; title=&#34;Programm Tatort Bernstrasse&#34; target=&#34;_blank&#34;&gt;Programm des Tatort Bernstrasse&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;datum&#34;&gt;Datum&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;So, 28.05.2017 // 17:00 Uhr // &lt;a href=&#34;http://tatortbernstrasse.tumblr.com/info&#34; target=&#34;_blank&#34;&gt;Tatort Bernstrasse 94, 6004 Luzern&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Romantischer Liederabend</title>
-      <link>http://www.simonefelber.ch/agenda/2017-05-21_liederabend/</link>
-      <pubDate>Sun, 21 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.simonefelber.ch/agenda/2017-05-21_liederabend/</guid>
-      <description>
-
-&lt;p&gt;Seit ihrer Zeit am Gymnasium musiziert Simone Felber gemeinsam mit dem Pianisten Roman Müller.&lt;br /&gt;
-So gestalten die beiden auch dieses Jahr einen Liederabend mit Werken von Robert Schumann, Johannes Brahms, Edvard Grieg und Felix Mendelssohn Bartholdy.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Roman Müller - Klavier&lt;/li&gt;
-&lt;li&gt;Simone Felber - Mezzosopran&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;datum&#34;&gt;Datum&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;So, 21.05.2017 // 19.00 Uhr // Reformierte Kirche Sursee // Eintritt frei, Kollekte&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Musik im Gottesdienst</title>
-      <link>http://www.simonefelber.ch/agenda/2017-05-01_musik_gottesdienst/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.simonefelber.ch/agenda/2017-05-01_musik_gottesdienst/</guid>
-      <description>
-
-&lt;p&gt;Gemeinsam mit dem Chor Audite Luzern gestaltet Simone Felber im Mai vier Gottesdiente musikalisch mit.&lt;br /&gt;
-Neben dem geistlichen Lied &amp;ldquo;Herr wir trau&amp;rsquo;n auf deine Güte&amp;rdquo; von Felix Medelssohn-Bartholdy erklingen Werke von Anton Bruckner, Wolfgang Amadeus Mozart, u.a.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;André Emmenegger-Hirschi - Leitung&lt;/li&gt;
-&lt;li&gt;Aline Willi-Jayet - Sopran&lt;/li&gt;
-&lt;li&gt;Samuel Koch - Tenor&lt;/li&gt;
-&lt;li&gt;Conrad Hofer - Bass&lt;/li&gt;
-&lt;li&gt;Simone Felber - Mezzosopran&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;daten&#34;&gt;Daten&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sa, 06.05.2017 // 17:00 Uhr // Pfarrkirche Ebikon&lt;/li&gt;
-&lt;li&gt;Sa, 13.05.2017 // 18:00 Uhr // Magdalenenkirche Meggen&lt;/li&gt;
-&lt;li&gt;So, 14.05.2017 // 10:00 Uhr // Pfarrkirche Ebikon&lt;/li&gt;
-&lt;li&gt;Sa, 03.06.2017 // 17:15 Uhr // Hofkirche Luzern&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://www.simonefelber.ch/agenda/2017-08-24_iheimisch_seebad/</guid>
+      <description>  Simone Felber - Stimme Adrian Würsch - Schwyzerörgeli Pirmin Huber - Kontrabass  Bemerkung: Das Konzert findet nur bei guter Witterung statt.
+Datum  Do, 24.8.17 // 20.30 Uhr // Seebad Luzern  </description>
     </item>
     
   </channel>

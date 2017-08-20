@@ -1,12 +1,14 @@
 {{ "<!-- Agenda -->" | safeHTML }}
 <div id="agenda" class="container-fluid content text-center">
 
-  <h1>Agenda</h1>
+  <h1>Aktuelle Veranstaltungen</h1>
 
-  {{ range where .Site.Pages.ByDate "Section" "agenda"}}
+  {{ range where .Site.RegularPages.ByDate "Section" "==" "agenda"}}
     <h2>{{ .Title }}</h2>
     {{ .Content }}
     <hr/>
   {{ end }}
+
+  <p>Informationen zu vergangenen Veranstaltungen sind im <a href="#archiv">Archiv</a> zu finden.</p>
 
 </div>
