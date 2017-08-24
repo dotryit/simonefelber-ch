@@ -4,11 +4,13 @@ title = "Trio iheimisch im Seebad Luzern"
 draft = false
 +++
 
+
+**Das Konzert findet definitiv statt**
+
 * Simone Felber - Stimme
 * [Adrian Würsch] (http://www.adrianwuersch.ch "Adrian Würsch") - Schwyzerörgeli
 * [Pirmin Huber] (http://www.priminhuber.com "Pirmin Huber") - Kontrabass
 
-Bemerkung: Das Konzert findet nur bei guter Witterung statt.
 
 ### Datum
 
