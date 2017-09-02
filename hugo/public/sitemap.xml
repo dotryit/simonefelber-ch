@@ -88,6 +88,38 @@
   </url>
   
   <url>
+    <loc>http://www.simonefelber.ch/gallery/101_iheimisch_seebad/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/102_iheimisch_seebad/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/103_iheimisch_kunstaheu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/201_venus_adonis/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/202_venus_adonis/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/301_stage_lab/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/302_stage_lab/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/303_stage_lab/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
     <lastmod>2017-10-15T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -101,6 +133,11 @@
   
   <url>
     <loc>http://www.simonefelber.ch/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/</loc>
     <priority>0</priority>
   </url>
   

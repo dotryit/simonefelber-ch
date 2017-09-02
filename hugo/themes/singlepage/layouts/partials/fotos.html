@@ -3,42 +3,14 @@
   <h1>Fotos</h1>
 
   <div class="row text-center">
-    <div class="col-sm-6">
-      <div class="thumbnail">
-        <img src="gallery/iheimisch1.jpg" alt="iheimisch">
-        <p>iheimisch, kunstaheu, Luzern (Foto: Leo Felber)</p>
+    {{ range where .Site.RegularPages.ByWeight "Section" "==" "gallery"}}
+      <div class="col-sm-6">
+        <div class="thumbnail">
+          <img src="gallery/{{ .Params.image }}" alt="{{ .Params.alt }}">
+          {{ .Content }}
+        </div>
       </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="thumbnail">
-        <img src="gallery/venus-adonis1.jpg" alt="Venus &amp; Adonis">
-        <p>Oper Venus &amp; Adonis, Luzerner Theater (Foto: Ingo Hoehn)</p>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="thumbnail">
-        <img src="gallery/venus-adonis2.jpg" alt="Venus &amp; Adonis">
-        <p>Oper Venus &amp; Adonis, Luzerner Theater (Foto: Ingo Hoehn)</p>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="thumbnail">
-        <img src="gallery/stage-lab1.jpg" alt="Stage Lab">
-        <p>Stage Lab, Musikhochschule Luzern (Foto: Christian Mattis)</p>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="thumbnail">
-        <img src="gallery/stage-lab2.jpg" alt="Stage Lab">
-        <p>Stage Lab, Musikhochschule Luzern (Foto: Christian Mattis)</p>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="thumbnail">
-        <img src="gallery/stage-lab3.jpg" alt="Stage Lab">
-        <p>Stage Lab, Musikhochschule Luzern (Foto: Christian Mattis)</p>
-      </div>
-    </div>
+    {{ end }}
   </div>
 
 </div>

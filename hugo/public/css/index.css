@@ -34,12 +34,6 @@ hr {
   padding-bottom: 70px;
 }
 
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
-  width: 100%;
-  margin: auto;
-}
-
 .navbar li a, .navbar .navbar-brand {
   color: white !important;
 }
