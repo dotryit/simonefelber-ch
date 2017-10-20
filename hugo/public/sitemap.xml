@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-10-15_collegium/</loc>
+    <loc>http://www.simonefelber.ch/agenda/2017-12-10_oratorio_de_noel/</loc>
+    <lastmod>2017-12-10T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-11-17_naturstimmen-on-tour/</loc>
+    <lastmod>2017-11-17T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-11-15_patagonia/</loc>
+    <lastmod>2017-11-15T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-11-12_musik_im_gottesdienst/</loc>
+    <lastmod>2017-11-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/2017-10-15_collegium/</loc>
     <lastmod>2017-10-15T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-09-24_gottesdienst_bruder_klaus/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-09-24_gottesdienst_bruder_klaus/</loc>
     <lastmod>2017-09-24T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-09-23_chornacht/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-09-23_chornacht/</loc>
     <lastmod>2017-09-23T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-09-09_strassensingen/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-09-09_strassensingen/</loc>
     <lastmod>2017-09-09T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-09-02_lucerne_festival/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-09-02_lucerne_festival/</loc>
     <lastmod>2017-09-02T00:00:00+02:00</lastmod>
   </url>
   
@@ -121,13 +141,13 @@
   
   <url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
-    <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+    <lastmod>2017-12-10T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.simonefelber.ch/archive/</loc>
-    <lastmod>2017-08-24T00:00:00+02:00</lastmod>
+    <lastmod>2017-10-15T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,7 +163,7 @@
   
   <url>
     <loc>http://www.simonefelber.ch/</loc>
-    <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+    <lastmod>2017-12-10T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

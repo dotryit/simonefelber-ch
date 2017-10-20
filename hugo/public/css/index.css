@@ -29,7 +29,7 @@ hr {
   border-top: 3px solid #888;
 }
 
-/* Keep a minimal height of 500ox for the carousel images while preserving the aspect ratio */
+/* Keep a minimal height for the carousel images while preserving the aspect ratio */
 .carousel img {
   min-height: 400px;
   object-fit: cover;
