@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-12-10_oratorio_de_noel/</loc>
+    <loc>http://www.simonefelber.ch/agenda/2018-01-13_uslegeornig/</loc>
+    <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-12-25_weihnachten/</loc>
+    <lastmod>2017-12-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2017-12-24_solothurn/</loc>
+    <lastmod>2017-12-24T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/2017-12-10_oratorio_de_noel/</loc>
     <lastmod>2017-12-10T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-11-17_naturstimmen-on-tour/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-11-17_naturstimmen-on-tour/</loc>
     <lastmod>2017-11-17T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-11-15_patagonia/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-11-15_patagonia/</loc>
     <lastmod>2017-11-15T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2017-11-12_musik_im_gottesdienst/</loc>
+    <loc>http://www.simonefelber.ch/archive/2017-11-12_musik_im_gottesdienst/</loc>
     <lastmod>2017-11-12T00:00:00+02:00</lastmod>
   </url>
   
@@ -141,13 +156,13 @@
   
   <url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
-    <lastmod>2017-12-10T00:00:00+02:00</lastmod>
+    <lastmod>2018-01-13T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.simonefelber.ch/archive/</loc>
-    <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+    <lastmod>2017-12-10T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -163,7 +178,7 @@
   
   <url>
     <loc>http://www.simonefelber.ch/</loc>
-    <lastmod>2017-12-10T00:00:00+02:00</lastmod>
+    <lastmod>2018-01-13T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

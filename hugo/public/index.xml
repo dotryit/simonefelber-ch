@@ -6,27 +6,58 @@
     <description>Recent content on Simone Felber - Mezzosopran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://www.simonefelber.ch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Uslegeornig</title>
+      <link>http://www.simonefelber.ch/agenda/2018-01-13_uslegeornig/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.simonefelber.ch/agenda/2018-01-13_uslegeornig/</guid>
+      <description> Masterkonzert
+ Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli  mit
+ Nadia Carboni - Klavier Pirmin Huber - Kontrabass Christoph Pfändler - Hackbrett Kristina Brunner - Cello Léonie Wismer - Violine David Hasler - Gitarre Timo Wild - Drums Lukas V. Gernet - Klavier  Datum  Sa, 13.01.2018 // 20.00 Uhr // Neubad Luzern // Eintritt frei - Kollekte  </description>
+    </item>
+    
+    <item>
+      <title>Missa Brevis in C KV220</title>
+      <link>http://www.simonefelber.ch/agenda/2017-12-25_weihnachten/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.simonefelber.ch/agenda/2017-12-25_weihnachten/</guid>
+      <description> Gottesdienste mit dem Kirchenchor Willisau und Obbürgen
+ Werner Bösch - Leitung  Datum  Mo, 25.12.2017 // 10.00 Uhr // Katholische Kirche Willisau Mo, 25.12.2017 // 19.30 Uhr // Katholische Kirche Obbürgen Mo, 01.01.2017 // 19.30 Uhr // Katholische Kirche Obbürgen  </description>
+    </item>
+    
+    <item>
+      <title>Pastoralmesse in C</title>
+      <link>http://www.simonefelber.ch/agenda/2017-12-24_solothurn/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.simonefelber.ch/agenda/2017-12-24_solothurn/</guid>
+      <description> Mitternachtsmesse zu St. Ursen, Solothurn
+ Konstantin Keiser - Leitung  Datum  So, 24.12.2017 // 23.00 Uhr // Kathedrale St. Ursen, Solothurn  </description>
+    </item>
+    
+    <item>
       <title>Oratorio de Noel - C. Saint-Saëns</title>
-      <link>http://www.simonefelber.ch/agenda/2017-12-10_oratorio_de_noel/</link>
+      <link>http://www.simonefelber.ch/archive/2017-12-10_oratorio_de_noel/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-12-10_oratorio_de_noel/</guid>
+      <guid>http://www.simonefelber.ch/archive/2017-12-10_oratorio_de_noel/</guid>
       <description> Konzert mit dem Johannes Chor Luzern
  Fausto Corbo - Leitung Camerata Musica Luzern   Madelaine Wibom - Sopran Simone Felber - Mezzosopran Liliane Glanzmann - Alt Joel Morand - Tenor Martin Roth - Bass  Datum  So, 10.12.2017 // 18.30 Uhr // Johanneskirche Luzern  </description>
     </item>
     
     <item>
       <title>Naturstimmen on tour</title>
-      <link>http://www.simonefelber.ch/agenda/2017-11-17_naturstimmen-on-tour/</link>
+      <link>http://www.simonefelber.ch/archive/2017-11-17_naturstimmen-on-tour/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-11-17_naturstimmen-on-tour/</guid>
+      <guid>http://www.simonefelber.ch/archive/2017-11-17_naturstimmen-on-tour/</guid>
       <description>mit
  jutz.ch Trio Han Vivi Christian Metzler Nadja Räss, Moderation  Gratis Jodelkurs mit Nadja Räss und Christian Metzler vor jedem Konzert.
 Weitere Informationen zu den Konzerten und zum Vorverkauf finden sie hier.
@@ -35,10 +66,10 @@ Datum  Fr, 17.11.2017 // 20.00 Uhr // Zürich, Augustinerkirche Sa, 18.11.2017 /
     
     <item>
       <title>Patagonia - Rahel Senn</title>
-      <link>http://www.simonefelber.ch/agenda/2017-11-15_patagonia/</link>
+      <link>http://www.simonefelber.ch/archive/2017-11-15_patagonia/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-11-15_patagonia/</guid>
+      <guid>http://www.simonefelber.ch/archive/2017-11-15_patagonia/</guid>
       <description>  Rahel Senn, Klavier
  Gäste: Marc Halbheer, Drums Jodok Vuille, Cello und Simone Felber, Gesang
   Weitere Informationen zum Konzert finden Sie hier.
@@ -47,10 +78,10 @@ Datum  Mi, 15.11.2017 // 19.30 Uhr // St. Peter Zürich  </description>
     
     <item>
       <title>Musik im Gottesdienst</title>
-      <link>http://www.simonefelber.ch/agenda/2017-11-12_musik_im_gottesdienst/</link>
+      <link>http://www.simonefelber.ch/archive/2017-11-12_musik_im_gottesdienst/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.simonefelber.ch/agenda/2017-11-12_musik_im_gottesdienst/</guid>
+      <guid>http://www.simonefelber.ch/archive/2017-11-12_musik_im_gottesdienst/</guid>
       <description> Werke von Felix Medelssohn-Bartholdy, Anton Bruckner u.a.
  André Emmenegger-Hirschi - Leitung Aline Willi-Jayet - Sopran Simone Felber - Mezzosopran  Datum  So, 12.11.2017 // 10.00 Uhr // Katholische Kirche Root  </description>
     </item>
