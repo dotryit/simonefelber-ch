@@ -8,6 +8,11 @@ Mitternachtsmesse zu St. Ursen, Solothurn
 
 * Konstantin Keiser - Leitung
 
+<!-- Separiert die beiden Listen -->
+
+* Nuria Richner - Sopran
+* Simone Felber - Mezzosopran
+
 
 ### Datum
 
