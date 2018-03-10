@@ -1,6 +1,6 @@
 ﻿+++
-weigth = 301
-image = "stage-lab1.jpg"
+weigth = 998
+image = "stage-lab2.jpg"
 alt = "Stage Lab"
 draft = false
 +++

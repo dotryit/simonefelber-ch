@@ -1,25 +1,10 @@
 {{ "<!-- Bio -->" | safeHTML }}
 <div id="biografie" class="container-fluid content text-center">
-  <h1>Simone Felber - Mezzosopran</h1>
-  <p>
-    Ersten Gesangsunterricht erhielt Simone Felber bei Brigitte Kuster w&auml;hrend ihrer Zeit am
-    Gymnasium. Nach abgeschlossener Matura mit Schwerpunktfach Musik, nahm sie 2011 das
-    Vorstudium an der Hochschule Luzern - Musik bei Prof. Barbara Locher auf. Im Sommer 2015
-    schloss sie den Bachelor of Arts in Music ab und studiert seit dem Herbst 2015 im Master of
-    Arts in Musikp&auml;dagogik bei Barbara Locher. Meisterkurse bei Evelyn Tubb, Rosalba Trevisan
-    und Edward Rushton erg&auml;nzen ihre Ausbildung.
-  </p>
-  <p>
-    Erste B&uuml;hnenerfahrungen sammelte sie in
-    Projekten der Hochschule Luzern unter der Leitung von Regina Heer. Im Februar 2016
-    gastierte sie am Luzerner Theater in der fr&uuml;hbarocken Oper Venus &amp; Adonis von John Blow
-    als Cupido. Im Sommer 2016 spielte sie bei Operella – die Taschenoper die Rolle des Jean in
-    Jules Massenets Oper Le portrait de Manon.
-  </p>
-  <p>
-    Neben ihrer Konzertt&auml;tigkeit als S&auml;ngerin
-    arbeitet sie als Gesangsp&auml;dagogin. Die Auseinandersetzung mit der Stimme l&auml;sst sie
-    verschiedene Gesangstechniken ausprobieren, so nimmt sie unter anderem Jodelunterricht
-    bei Nadja R&auml;ss.
-  </p>
+
+  <h1>Simone Felber</h1>
+
+  {{ range where .Site.RegularPages.ByWeight "Section" "==" "bio" }}
+    {{ .Content }}
+  {{ end }}
+
 </div>

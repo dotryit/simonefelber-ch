@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.simonefelber.ch/bio/01_studium/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/bio/02_jodel/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/bio/03_unterricht/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.simonefelber.ch/agenda/2018-01-13_uslegeornig/</loc>
     <lastmod>2018-01-13T00:00:00+02:00</lastmod>
   </url>
@@ -123,35 +135,43 @@
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/gallery/101_iheimisch_seebad/</loc>
+    <loc>http://www.simonefelber.ch/gallery/698_uslegeornig/</loc>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/gallery/102_iheimisch_seebad/</loc>
+    <loc>http://www.simonefelber.ch/gallery/699_uslegeornig/</loc>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/gallery/103_iheimisch_kunstaheu/</loc>
+    <loc>http://www.simonefelber.ch/gallery/797_iheimisch_seebad/</loc>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/gallery/201_venus_adonis/</loc>
+    <loc>http://www.simonefelber.ch/gallery/798_iheimisch_seebad/</loc>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/gallery/202_venus_adonis/</loc>
+    <loc>http://www.simonefelber.ch/gallery/799_iheimisch_kunstaheu/</loc>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/gallery/301_stage_lab/</loc>
+    <loc>http://www.simonefelber.ch/gallery/898_venus_adonis/</loc>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/gallery/302_stage_lab/</loc>
+    <loc>http://www.simonefelber.ch/gallery/899_venus_adonis/</loc>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/gallery/303_stage_lab/</loc>
+    <loc>http://www.simonefelber.ch/gallery/997_stage_lab/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/998_stage_lab/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/gallery/999_stage_lab/</loc>
   </url>
   
   <url>
@@ -163,6 +183,11 @@
   <url>
     <loc>http://www.simonefelber.ch/archive/</loc>
     <lastmod>2017-12-25T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/bio/</loc>
     <priority>0</priority>
   </url>
   

@@ -3,7 +3,7 @@
 
   <h1>Aktuelle Veranstaltungen</h1>
 
-  {{ range where .Site.RegularPages.ByDate "Section" "==" "agenda"}}
+  {{ range where .Site.RegularPages.ByDate "Section" "==" "agenda" }}
     <h2>{{ .Title }}</h2>
     {{ .Content }}
     <hr/>

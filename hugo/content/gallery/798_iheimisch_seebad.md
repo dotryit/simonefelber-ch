@@ -1,6 +1,6 @@
 ﻿+++
-weigth = 101
-image = "iheimisch_seebad1.jpg"
+weigth = 798
+image = "iheimisch_seebad2.jpg"
 alt = "iheimisch im Seebad"
 draft = false
 +++

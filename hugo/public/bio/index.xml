@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bios on Simone Felber - Mezzosopran</title>
+    <link>http://www.simonefelber.ch/bio/</link>
+    <description>Recent content in Bios on Simone Felber - Mezzosopran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    
+	<atom:link href="http://www.simonefelber.ch/bio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Studium</title>
+      <link>http://www.simonefelber.ch/bio/01_studium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonefelber.ch/bio/01_studium/</guid>
+      <description>Ersten Gesangsunterricht erhielt SIMONE FELBER (&amp;ast;1992) bei Brigitte Kuster während ihrer Zeit am Gymnasium. Nach abgeschlossener Matura mit Schwerpunktfach Musik, nahm sie 2011 das Vorstudium an der Hochschule Luzern – Musik bei Prof. Barbara Locher auf. Im Sommer 2015 schloss sie den Bachelor of Arts in Music ab und studiert seit Herbst 2015 im Master of Arts in Musikpädagogik bei Barbara Locher. Meisterkurse bei Evelyn Tubb, Rosalba Trevisan, Malcolm Walker und Edward Rushton ergänzen ihre Ausbildung.</description>
+    </item>
+    
+    <item>
+      <title>Jodel</title>
+      <link>http://www.simonefelber.ch/bio/02_jodel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonefelber.ch/bio/02_jodel/</guid>
+      <description>Simone Felber hegt eine grosse Faszination für die Klangvielfalt des Naturjodels in der Schweiz. Neben dem Hören, Transkribieren und Lernen alter Naturjodeltondokumente besucht sie regelmässig verschiedene Naturjodler in der Schweiz, um den einzelnen Klangfarben nachzugehen. So nimmt sie unteranderem Unterricht bei Bernhard Betschart (Muotathal).</description>
+    </item>
+    
+    <item>
+      <title>Unterricht</title>
+      <link>http://www.simonefelber.ch/bio/03_unterricht/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonefelber.ch/bio/03_unterricht/</guid>
+      <description>Das Jodeln wurde je länger je mehr zu einem festen Bestandteil ihres künstlerischen Schaffens. So ist Simone Felber vermehrt mit IHEIMISCH (Adrian Würsch - Schwyzerörgeli, Pirmin Huber - Kontrabass) unterwegs, leitet gemeinsam mit Marco Beltrani den Jugendchor jutz.ch und ist Dirigentin des Jodlerklubs Pilatus Luzern. Neben ihrer regen Konzerttätigkeit als Sängerin arbeitet sie als Gesangspädagogin an der Musikschule Menzingen (ZG), gibt Kurse bei der KlangWelt Toggenburg und unterrichtet Privat Jodel, sowie auch klassischen Gesang.</description>
+    </item>
+    
+  </channel>
+</rss>

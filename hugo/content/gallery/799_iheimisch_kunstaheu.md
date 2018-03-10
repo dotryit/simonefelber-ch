@@ -1,5 +1,5 @@
 ﻿+++
-weigth = 101
+weigth = 799
 image = "iheimisch_kunstaheu.jpg"
 alt = "iheimisch bei kunstaheu"
 draft = false
