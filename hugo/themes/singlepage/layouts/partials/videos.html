@@ -1,0 +1,25 @@
+{{ "<!-- Videos -->" | safeHTML }}
+<div id="videos" class="container-fluid content text-center">
+  <h1>Videos</h1>
+
+  <div class="row text-center">
+    {{ range where .Site.RegularPages.ByWeight "Section" "==" "video"}}
+      <div class="col-sm-6">
+        <div class="video">
+          <div class="video-pad">
+            <div class="video-container">
+              <iframe
+                src="{{ .Params.src }}?rel=0"
+                frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+              </iframe>
+            </div>
+          </div>
+          {{ .Content }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+
+
+</div>
