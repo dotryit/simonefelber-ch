@@ -3,10 +3,10 @@
   <h1>Fotos</h1>
 
   <div class="row text-center">
-    {{ range where .Site.RegularPages.ByWeight "Section" "==" "gallery"}}
+    {{ range where .Site.RegularPages.ByWeight "Section" "==" "foto"}}
       <div class="col-sm-6">
         <div class="thumbnail">
-          <img src="gallery/{{ .Params.image }}" alt="{{ .Params.alt }}">
+          <img src="foto/{{ .Params.image }}" alt="{{ .Params.alt }}"/>
           {{ .Content }}
         </div>
       </div>
