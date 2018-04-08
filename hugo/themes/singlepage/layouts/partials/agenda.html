@@ -2,6 +2,7 @@
 <div id="agenda" class="container-fluid content text-center">
 
   <h1>Aktuelle Veranstaltungen</h1>
+  <hr/>
 
   {{ range where .Site.RegularPages.ByDate "Section" "==" "agenda" }}
     <h2>{{ .Title }}</h2>
