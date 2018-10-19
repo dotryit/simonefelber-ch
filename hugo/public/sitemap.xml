@@ -15,32 +15,47 @@
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2018-09-22_georgien/</loc>
+    <loc>http://www.simonefelber.ch/agenda/2018-11-21_japan/</loc>
+    <lastmod>2018-11-28T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2018-11-01_liederabend/</loc>
+    <lastmod>2018-11-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2018-10-21_gottesdienst_stein/</loc>
+    <lastmod>2018-10-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/2018-09-22_georgien/</loc>
     <lastmod>2018-09-22T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2018-09-01_den_haag/</loc>
+    <loc>http://www.simonefelber.ch/archive/2018-09-01_den_haag/</loc>
     <lastmod>2018-09-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2018-07-13_kinderjodellager/</loc>
+    <loc>http://www.simonefelber.ch/archive/2018-07-13_kinderjodellager/</loc>
     <lastmod>2018-07-13T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2018-05-19_naturstimmen/</loc>
+    <loc>http://www.simonefelber.ch/archive/2018-05-19_naturstimmen/</loc>
     <lastmod>2018-05-19T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2018-05-09_ejcf/</loc>
+    <loc>http://www.simonefelber.ch/archive/2018-05-09_ejcf/</loc>
     <lastmod>2018-05-09T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2018-04-19_tuerkei/</loc>
+    <loc>http://www.simonefelber.ch/archive/2018-04-19_tuerkei/</loc>
     <lastmod>2018-04-19T00:00:00+02:00</lastmod>
   </url>
   
@@ -250,13 +265,13 @@
   
   <url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
-    <lastmod>2018-09-22T00:00:00+02:00</lastmod>
+    <lastmod>2018-11-28T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.simonefelber.ch/archive/</loc>
-    <lastmod>2018-01-13T00:00:00+02:00</lastmod>
+    <lastmod>2018-09-22T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -277,7 +292,7 @@
   
   <url>
     <loc>http://www.simonefelber.ch/</loc>
-    <lastmod>2018-09-22T00:00:00+02:00</lastmod>
+    <lastmod>2018-11-28T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
