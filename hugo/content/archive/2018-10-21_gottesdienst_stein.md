@@ -11,5 +11,4 @@ Jugendchor jutz.ch - Gottesdienst in Stein (AR)
 
 ### Datum
 
-* So, 21.10.18 // 09.30 Uhr // Reformierte Kirche, Stein (AG)
-
+* So, 21.10.2018 // 09.30 Uhr // Reformierte Kirche, Stein (AG)
