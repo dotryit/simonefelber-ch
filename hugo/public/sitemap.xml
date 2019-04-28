@@ -15,32 +15,65 @@
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2019-02-16_kammerchor_luzern/</loc>
+    <loc>http://www.simonefelber.ch/agenda/</loc>
+    <lastmod>2019-04-20T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2019-04-20_ostern/</loc>
+    <lastmod>2019-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/</loc>
+    <lastmod>2019-04-20T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2019-04-12_schuetz/</loc>
+    <lastmod>2019-04-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2019-03-23_verquer/</loc>
+    <lastmod>2019-03-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/</loc>
+    <lastmod>2019-02-16T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/2019-02-16_kammerchor_luzern/</loc>
     <lastmod>2019-02-16T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2019-02-09_viva_volksmusik/</loc>
+    <loc>http://www.simonefelber.ch/archive/2019-02-09_viva_volksmusik/</loc>
     <lastmod>2019-02-09T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2019-02-06_klangkurs_projektchor/</loc>
+    <loc>http://www.simonefelber.ch/archive/2019-02-06_klangkurs_projektchor/</loc>
     <lastmod>2019-01-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2019-01-12_centre_culturel/</loc>
+    <loc>http://www.simonefelber.ch/archive/2019-01-12_centre_culturel/</loc>
     <lastmod>2019-01-16T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2018-12-24_weihnachten/</loc>
+    <loc>http://www.simonefelber.ch/archive/2018-12-24_weihnachten/</loc>
     <lastmod>2018-12-24T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2018-11-21_japan/</loc>
+    <loc>http://www.simonefelber.ch/archive/2018-11-21_japan/</loc>
     <lastmod>2018-11-28T00:00:00+02:00</lastmod>
   </url>
   
@@ -289,18 +322,6 @@
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/</loc>
-    <lastmod>2019-02-16T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/</loc>
-    <lastmod>2018-11-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.simonefelber.ch/bio/</loc>
     <priority>0</priority>
   </url>
@@ -312,12 +333,6 @@
   
   <url>
     <loc>http://www.simonefelber.ch/foto/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/</loc>
-    <lastmod>2019-02-16T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

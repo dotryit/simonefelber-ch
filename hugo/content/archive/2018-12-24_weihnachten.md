@@ -4,7 +4,7 @@ title = "Weihnachtsgottesdienst"
 draft = false
 +++
 
-### Ausschnitte aus Oratorio de Noël von Camille Saint-Saens
+Ausschnitte aus Oratorio de Noël von Camille Saint-Saens
 
 * Kirchenchor der Pfarrei Udligenswil - Leitung Bruno Fluder
 * Simone Felber - Mezzosopran

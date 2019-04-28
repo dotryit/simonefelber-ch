@@ -4,7 +4,7 @@ title = "O come let us sing"
 draft = false
 +++
 
-### O come let us sing
+O come let us sing
 
 * [Kammerchor Luzern](https://kammerchorluzern.ch/konzerte/) - Leitung Benjamin Rapp
 

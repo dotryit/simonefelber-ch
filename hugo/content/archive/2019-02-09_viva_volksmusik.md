@@ -4,7 +4,7 @@ title = "Viva Volksmusik mit jutz.ch"
 draft = false
 +++
 
-### Viva Volksmusik
+Viva Volksmusik
 
 * Jugendchor jutz.ch - Leitung: Simone Felber & Benjamin Rapp
 * u.a.

@@ -1,10 +1,8 @@
 ﻿+++
 date = "2019-01-30T00:00:00+02:00"
-title = "Jodel Projektchor Luzern"
+title = "Klangkurs Nr. 903: Jodel-Projektchor Luzern (AUSGEBUCHT)"
 draft = false
 +++
-
-### Klangkurs Nr. 903: Jodel-Projektchor Luzern (AUSGEBUCHT)
 
 Alle Informationen auf der Homepage der [Klangwelt Toggenburg](https://klangwelt.swiss/de/klangkurse/kurse.html)
 
