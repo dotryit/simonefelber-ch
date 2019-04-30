@@ -1,6 +1,6 @@
 ﻿+++
 weigth = 904
-src = "https://www.youtube.com/embed/gtOo-NRIZ_Q"
+src = "https://www.youtube.com/embed/3WCUT-LdWYU"
 draft = false
 +++
-Fileuse<br>Masterabschluss uslegeornig, Neubad Luzern
+Von Dag aus «Af Haugtussa»<br>Masterabschluss uslegeornig, Neubad Luzern

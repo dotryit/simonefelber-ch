@@ -1,6 +1,6 @@
 ﻿+++
 weigth = 901
-src = "https://www.youtube.com/embed/AZghH-zGJHA"
+src = "https://www.youtube.com/embed/7uAQqPUA7p0"
 draft = false
 +++
-Elsk aus «Af Haugtussa»<br>Masterabschluss uslegeornig, Neubad Luzern
+Il est quelqu’un sur terre // Lamento // S’truurig Meitli<br>Masterabschluss uslegeornig, Neubad Luzern
