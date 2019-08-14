@@ -15,27 +15,52 @@
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2019-08-08_buskers/</loc>
+    <loc>http://www.simonefelber.ch/agenda/2019-10-17_jodelreise/</loc>
+    <lastmod>2019-10-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2019-10-12_wien/</loc>
+    <lastmod>2019-09-22T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2019-09-22_gottesdienst_johannes/</loc>
+    <lastmod>2019-09-22T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2019-09-14_spitteler/</loc>
+    <lastmod>2019-09-14T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/agenda/2019-08-25_lucerne_festival/</loc>
+    <lastmod>2019-08-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.simonefelber.ch/archive/2019-08-08_buskers/</loc>
     <lastmod>2019-08-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2019-07-08_kinderjodellager/</loc>
+    <loc>http://www.simonefelber.ch/archive/2019-07-08_kinderjodellager/</loc>
     <lastmod>2019-07-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2019-06-19_projektjodelchor/</loc>
+    <loc>http://www.simonefelber.ch/archive/2019-06-19_projektjodelchor/</loc>
     <lastmod>2019-06-19T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2019-06-14_cantus_meggen/</loc>
+    <loc>http://www.simonefelber.ch/archive/2019-06-14_cantus_meggen/</loc>
     <lastmod>2019-06-14T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.simonefelber.ch/agenda/2019-06-09_udligenswil/</loc>
+    <loc>http://www.simonefelber.ch/archive/2019-06-09_udligenswil/</loc>
     <lastmod>2019-06-09T00:00:00+02:00</lastmod>
   </url>
   
@@ -312,13 +337,13 @@
   
   <url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
-    <lastmod>2019-08-08T00:00:00+02:00</lastmod>
+    <lastmod>2019-10-12T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.simonefelber.ch/archive/</loc>
-    <lastmod>2019-05-30T00:00:00+02:00</lastmod>
+    <lastmod>2019-08-08T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -339,7 +364,7 @@
   
   <url>
     <loc>http://www.simonefelber.ch/</loc>
-    <lastmod>2019-08-08T00:00:00+02:00</lastmod>
+    <lastmod>2019-10-12T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
