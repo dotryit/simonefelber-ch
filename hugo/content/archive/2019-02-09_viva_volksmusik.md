@@ -1,7 +1,8 @@
 ﻿+++
-date = "2019-02-09T00:00:00+02:00"
+date = "2019-02-09"
 title = "Viva Volksmusik mit jutz.ch"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Viva Volksmusik

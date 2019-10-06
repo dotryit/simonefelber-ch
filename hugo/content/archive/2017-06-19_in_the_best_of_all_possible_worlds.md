@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-06-19T00:00:00+02:00"
+date = "2017-06-19"
 title = "...in the best of all possible worlds!"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Zum Jahresabschluss des szenischen Unterrichts Oper und StageLab präsentieren wir eine bunte Collage aus verschiedensten Opernszenen.

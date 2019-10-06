@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-09-02T00:00:00+02:00"
+date = "2017-09-02"
 title = "Lucerne Festival"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 ### Patricia Kopatchinskaja | Ensemble der LUCERNE FESTIVAL ALUMNI u.a.

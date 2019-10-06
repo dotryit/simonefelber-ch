@@ -1,7 +1,8 @@
 ﻿+++
-date = "2019-05-30T00:00:00+02:00"
+date = "2019-05-30"
 title = "Volksmusik aus den Alpenländern"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Mit Simone Felber's iheimisch (Schweiz), BradlBerg Musig (Österreich), Saitenmusik Kern (Allgäu) u.a

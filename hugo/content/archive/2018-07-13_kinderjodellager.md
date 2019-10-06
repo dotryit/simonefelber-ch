@@ -1,7 +1,8 @@
 ﻿+++
-date = "2018-07-13T00:00:00+02:00"
+date = "2018-07-13"
 title = "Kinderjodellager"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Kinderjodellager der Klangwelt Toggenburg

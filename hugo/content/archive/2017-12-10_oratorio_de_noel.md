@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-12-10T00:00:00+02:00"
+date = "2017-12-10"
 title = "Oratorio de Noel - C. Saint-Saëns"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Konzert mit dem Johannes Chor Luzern

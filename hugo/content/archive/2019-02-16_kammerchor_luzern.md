@@ -1,7 +1,8 @@
 ﻿+++
-date = "2019-02-16T00:00:00+02:00"
+date = "2019-02-16"
 title = "O come let us sing"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 O come let us sing

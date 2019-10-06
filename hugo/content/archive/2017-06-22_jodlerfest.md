@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-06-22T00:00:00+02:00"
+date = "2017-06-22"
 title = "Eidgenössisches Jodlerfest in Brig"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 ### So tönt das Herz der Schweiz - 30. Eidgenössisches Jodlerfest Brig - Glis

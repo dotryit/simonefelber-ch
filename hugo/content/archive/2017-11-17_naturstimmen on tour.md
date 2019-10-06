@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-11-17T00:00:00+02:00"
+date = "2017-11-17"
 title = "Naturstimmen on tour"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 mit

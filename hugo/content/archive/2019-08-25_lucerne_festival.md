@@ -1,7 +1,8 @@
 ﻿+++
-date = "2019-08-27T00:00:00+02:00"
+date = "2019-08-27"
 title = "Lucerne Festival in den Strassen"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Simone Felber's iheimisch ist dieses Jahr am Lucerne Festival in den Strassen zu hören.

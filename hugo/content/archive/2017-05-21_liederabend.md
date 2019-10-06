@@ -1,7 +1,8 @@
 +++
-date = "2017-05-21T00:00:00+02:00"
+date = "2017-05-21"
 title = "Romantischer Liederabend"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Seit ihrer Zeit am Gymnasium musiziert Simone Felber gemeinsam mit dem Pianisten Roman Müller.   

@@ -1,7 +1,8 @@
 ﻿+++
-date = "2019-06-14T00:00:00+02:00"
+date = "2019-06-14"
 title = "Cantus Meggen & Simone Felber's iheimisch"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 S'isch mer alles eis Ding 

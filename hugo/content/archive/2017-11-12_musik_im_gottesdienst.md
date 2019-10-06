@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-11-12T00:00:00+02:00"
+date = "2017-11-12"
 title = "Musik im Gottesdienst"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Werke von Felix Medelssohn-Bartholdy, Anton Bruckner u.a.

@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-06-03T00:00:00+02:00"
+date = "2017-06-03"
 title = "Gottesdienst mit Audite"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Ein letztes Mal erklingt am 3.Juni das Programm "Perlen der Romantik" im Gottesdienst. Diesmal in der Hofkirche mit Wolfgang Sieber an der Orgel.     

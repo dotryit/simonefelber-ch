@@ -1,7 +1,8 @@
 ﻿+++
-date = "2019-09-14T00:00:00+02:00"
+date = "2019-09-14"
 title = "Carl Spitteler 100 Jahre Literaturnobelpreis"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Simone Felber's iheimisch umrahmen den Festakt zum Carl Spitteler Jubiläum.

@@ -1,7 +1,8 @@
 +++
-date = "2017-04-08T00:00:00+02:00"
+date = "2017-04-08"
 title = "Membra Jesu Nostri"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Dietrich Buxdehude: Membra Jesu Nostri   

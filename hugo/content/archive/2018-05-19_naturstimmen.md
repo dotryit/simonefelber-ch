@@ -1,7 +1,8 @@
 ﻿+++
-date = "2018-05-19T00:00:00+02:00"
+date = "2018-05-19"
 title = "Klangfestival Naturstimmen"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Jugendchor jutz.ch am Klangfestival

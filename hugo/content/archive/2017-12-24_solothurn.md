@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-12-24T00:00:00+02:00"
+date = "2017-12-24"
 title = "Pastoralmesse in C"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Mitternachtsmesse zu St. Ursen, Solothurn

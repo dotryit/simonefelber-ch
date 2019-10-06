@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-07-01T00:00:00+02:00"
+date = "2017-07-01"
 title = "Mer hebed ab - Pastoralraumfest"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 ### Jodel und Währschaftes einmal anders

@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-08-24T00:00:00+02:00"
+date = "2017-08-24"
 title = "Trio iheimisch im Seebad Luzern"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 

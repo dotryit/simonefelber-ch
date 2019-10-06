@@ -1,7 +1,8 @@
 ﻿+++
-date = "2019-06-19T00:00:00+02:00"
+date = "2019-06-19"
 title = "Abschlusskonzert Projektjodelchor Luzern"
 draft = false
+publishdate = "2000-01-01"
 +++
  
 

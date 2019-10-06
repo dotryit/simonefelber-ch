@@ -1,7 +1,8 @@
 +++
-date = "2017-03-04T00:00:00+02:00"
+date = "2017-03-04"
 title = "iheimisch"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Gemeinsam mit Schwyzerörgeli und Kontrabass geht Simone Felber auf die Klangentdeckungsreise.

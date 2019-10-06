@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-09-24T00:00:00+02:00"
+date = "2017-09-24"
 title = "Gottesdienst Bruder Klaus Emmen"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 ### Krönungsmesse W. A. Mozart

@@ -1,7 +1,8 @@
 ﻿+++
-date = "2019-07-08T00:00:00+02:00"
+date = "2019-07-08"
 title = "Kinderjodellager der Klangwelt"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Auch dieses Jahr leite ich das Kinderjodellager der Klangwelt Toggenburg. Ich freue mich über viele Anmeldungen!

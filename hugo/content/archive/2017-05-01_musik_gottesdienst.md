@@ -1,7 +1,8 @@
 +++
-date = "2017-05-01T00:00:00+02:00"
+date = "2017-05-01"
 title = "Musik im Gottesdienst"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Gemeinsam mit dem Chor Audite Luzern gestaltet Simone Felber im Mai vier Gottesdiente musikalisch mit.    

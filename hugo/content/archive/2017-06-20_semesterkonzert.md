@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-06-20T00:00:00+02:00"
+date = "2017-06-20"
 title = "Semesterkonzert Volksmusik"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Zum Abschluss des [Workshops "Jodel in Theorie & Praxis"](https://www.hslu.ch/de-ch/musik/agenda/veranstaltungen/2017/06/20/semesterkonzert-volksmusik "Veranstaltungskalender HSLU") präsentieren wir Stücke aus dem Workshop. Im zweiten Teil des Programms spielt die Alpini Vernähmlassig.

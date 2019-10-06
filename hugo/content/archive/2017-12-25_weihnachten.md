@@ -1,7 +1,8 @@
 ﻿+++
-date = "2017-12-25T00:00:00+02:00"
+date = "2017-12-25"
 title = "Missa Brevis in C KV220"
 draft = false
+publishdate = "2000-01-01"
 +++
 
 Gottesdienste mit dem Kirchenchor Willisau und Obbürgen
