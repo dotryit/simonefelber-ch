@@ -5,6 +5,9 @@
   <hr/>
 
   {{ range where .Site.RegularPages.ByDate.Reverse "Section" "==" "archive" }}
+    {{ if isset .Params "remark" }}
+      <div id="remark">{{ .Params.remark }}</div>
+    {{ end }}
     <h2>{{ .Title }}</h2>
     {{ .Content }}
     <hr/>
