@@ -29,6 +29,12 @@ hr {
   border-top: 3px solid #888;
 }
 
+#remark {
+	color: red;
+	font-size: x-large;
+	
+}
+
 /* Keep a minimal height for the carousel images while preserving the aspect ratio */
 .carousel img {
   min-height: 400px;
