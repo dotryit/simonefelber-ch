@@ -6,3 +6,6 @@ googleAnalytics = "UA-98608711-1"
 
 [blackfriday]
    hrefTargetBlank = true
+
+[markup.goldmark.renderer]
+   unsafe= true
