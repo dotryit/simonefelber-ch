@@ -1,6 +1,7 @@
 ﻿+++
-date = "2020-09-05"
+date = "2020-09-06"
 title = "s'"
+remark = "Zusatzvorstellung"
 draft = false
 publishdate = "2000-01-01"
 +++
@@ -17,4 +18,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Sa, 05. September 2020 // 20.00 Uhr // [Kulturhof Hinter Musegg](https://www.hinter-musegg.ch/veranstaltungen/famm-s-1)
+* So, 06. September 2020 // 11.00 Uhr // [Kulturhof Hinter Musegg](https://www.hinter-musegg.ch/veranstaltungen/famm-s-2)
