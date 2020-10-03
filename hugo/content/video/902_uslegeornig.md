@@ -1,6 +1,6 @@
 ﻿+++
 weigth = 902
-src = "https://www.youtube.com/embed/lftPw9O5E4E"
+src = "https://www.youtube.com/embed/7uAQqPUA7p0"
 draft = false
 +++
-Møte aus «Af Haugtussa»<br>Masterabschluss uslegeornig, Neubad Luzern
+Il est quelqu’un sur terre // Lamento // S’truurig Meitli<br>Masterabschluss uslegeornig, Neubad Luzern

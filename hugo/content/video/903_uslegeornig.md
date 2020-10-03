@@ -1,6 +1,6 @@
 ﻿+++
 weigth = 903
-src = "https://www.youtube.com/embed/yzIj9aj3gsY"
+src = "https://www.youtube.com/embed/lftPw9O5E4E"
 draft = false
 +++
-S’Toggeburger Ländlerjödeli<br>Masterabschluss uslegeornig, Neubad Luzern
+Møte aus «Af Haugtussa»<br>Masterabschluss uslegeornig, Neubad Luzern

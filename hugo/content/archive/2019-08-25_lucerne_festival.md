@@ -5,7 +5,7 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-Simone Felber's iheimisch ist dieses Jahr am Lucerne Festival in den Strassen zu hören.
+Simone Felbers iheimisch ist dieses Jahr am Lucerne Festival in den Strassen zu hören.
 
 * Simone Felber - Stimme
 * Adiran Würsch - Schwyzerörgeli

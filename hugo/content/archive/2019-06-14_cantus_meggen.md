@@ -7,7 +7,7 @@ publishdate = "2000-01-01"
 
 S'isch mer alles eis Ding 
 
-* Simone Felber's iheimisch
+* Simone Felbers iheimisch
 * Cantus Meggen - Leitung, Markus Etterlin
 
 ### Datum

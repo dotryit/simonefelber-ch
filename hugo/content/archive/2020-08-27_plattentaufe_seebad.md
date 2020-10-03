@@ -5,11 +5,11 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-### Plattentaufe &laquo;Ha ame ne Ort es Bl&uuml;emeli gseh&raquo; von Simone Felber's iheimisch
+### Plattentaufe &laquo;Ha ame ne Ort es Bl&uuml;emeli gseh&raquo; von Simone Felbers iheimisch
 
 <br>
 
-* Simone Felber's iheimisch - Simone Felber, Pirmin Huber, Adrian Würsch
+* Simone Felbers iheimisch - Simone Felber, Pirmin Huber, Adrian Würsch
 
 
 ### Datum
