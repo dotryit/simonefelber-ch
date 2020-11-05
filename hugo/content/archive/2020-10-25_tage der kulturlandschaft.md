@@ -5,9 +5,11 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-### Stimmenfestival Ettiswil im Rahmen der (Tage der Kulturlandschaft)[https://www.kulturlandschaftluzern.ch/]
+### Stimmenfestival Ettiswil im Rahmen der [Tage der Kulturlandschaft](https://www.kulturlandschaftluzern.ch/)
 
-* (Simone Felbers iheimisch)[https://simonefelbersiheimisch.ch/]
+<br>
+
+* [Simone Felbers iheimisch](https://simonefelbersiheimisch.ch/)
 
 
 ### Datum

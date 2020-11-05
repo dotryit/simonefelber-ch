@@ -7,9 +7,11 @@ publishdate = "2000-01-01"
 
 ### Ha ame ne Ort es Blüemeli gseh im Herrenhaus Grafenort
 
-* (Simone Felbers iheimisch)[https://simonefelbersiheimisch.ch/]
+<br>
+
+* [Simone Felbers iheimisch](https://simonefelbersiheimisch.ch/)
 
 
 ### Datum
 
-* So, 29. November 2020 // 11.00 Uhr // (Herrenhaus, Grafenort)[https://grafenort.ch/veranstaltungen/]
+* So, 29. November 2020 // 11.00 Uhr // [Herrenhaus, Grafenort](https://grafenort.ch/veranstaltungen/)

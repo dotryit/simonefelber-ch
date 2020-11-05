@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Do, 22. Oktober 2020 // 18.30 Uhr // (Stadthaus/Historisches Museeum, Luzern)[https://historischesmuseum.lu.ch/ausstellungen/Demnaechst]
+* Do, 22. Oktober 2020 // 18.30 Uhr // [Stadthaus/Historisches Museeum, Luzern](https://historischesmuseum.lu.ch/ausstellungen/Demnaechst)
