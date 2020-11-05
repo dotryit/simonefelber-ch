@@ -1,6 +1,6 @@
 ﻿+++
 weigth = 904
-src = "https://www.youtube.com/embed/3WCUT-LdWYU"
+src = "https://www.youtube.com/embed/yzIj9aj3gsY"
 draft = false
 +++
-Von Dag aus «Af Haugtussa»<br>Masterabschluss uslegeornig, Neubad Luzern
+S’Toggeburger Ländlerjödeli<br>Masterabschluss uslegeornig, Neubad Luzern

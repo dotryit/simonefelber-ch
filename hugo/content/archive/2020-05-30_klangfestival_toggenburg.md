@@ -9,7 +9,7 @@ publishdate = "2000-01-01"
 Am unbekannten Ende Europas
 
 
-* Simone Felber's iheimisch (Schweiz)
+* Simone Felbers iheimisch (Schweiz)
 * Alain Croubalian (Schweiz/Armenien)
 * Ensemble Eskeniangeli (Schweiz/Armenien)
 * The Naghash Ensemble (Armenien)

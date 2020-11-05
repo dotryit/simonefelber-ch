@@ -5,7 +5,7 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-Mit Simone Felber's iheimisch (Schweiz), BradlBerg Musig (Österreich), Saitenmusik Kern (Allgäu) u.a
+Mit Simone Felbers iheimisch (Schweiz), BradlBerg Musig (Österreich), Saitenmusik Kern (Allgäu) u.a
 
 Weitere Informationen unter [martin-kern-musik.de](http://www.martin-kern-musik.de)
 

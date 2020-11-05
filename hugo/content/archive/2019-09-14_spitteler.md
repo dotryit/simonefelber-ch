@@ -5,7 +5,7 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-Simone Felber's iheimisch umrahmen den Festakt zum Carl Spitteler Jubiläum.
+Simone Felbers iheimisch umrahmen den Festakt zum Carl Spitteler Jubiläum.
 
 * Simone Felber - Stimme
 * Adiran Würsch - Schwyzerörgeli
