@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Sa, 07. Oktober 2020 // 16.00 Uhr (Jodelworkshop), 20.00 Uhr (Konzert) // [Folkclub, Zürich](http://www.folkclub.ch/iheimisch/)
+* Sa, 07. November 2020 // 16.00 Uhr (Jodelworkshop), 20.00 Uhr (Konzert) // [Folkclub, Zürich](http://www.folkclub.ch/iheimisch/)
