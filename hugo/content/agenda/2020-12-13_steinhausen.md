@@ -5,7 +5,7 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-Gottesdienst am 3. Advent
+<br>
 
 * Simone Felber - Mezzosopran
 * Andrea Forrer - Klavier

@@ -1,6 +1,7 @@
 ﻿﻿+++
 date = "2020-11-29"
 title = "Herrenhaus Grafenort"
+remark = "Verschoben auf 07. März 2021"
 draft = false
 publishdate = "2000-01-01"
 +++

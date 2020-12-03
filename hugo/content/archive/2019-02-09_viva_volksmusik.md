@@ -12,4 +12,4 @@ Viva Volksmusik
 
 ### Datum
 
-* Sa, 09.02.2019 // 20:10 - 22:20 // Live im Fernsehen auf SRF
+* Sa, 09.02.2019 // 20.10 - 22.20 // Live im Fernsehen auf SRF

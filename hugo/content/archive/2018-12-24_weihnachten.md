@@ -14,5 +14,5 @@ Ausschnitte aus Oratorio de Noël von Camille Saint-Saens
 
 ### Datum
 
-* Mo, 24.12.2017 // 23:00 Uhr // Kirche Udligenswil
+* Mo, 24.12.2017 // 23.00 Uhr // Kirche Udligenswil
 
