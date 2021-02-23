@@ -1,7 +1,7 @@
-﻿﻿+++
-date = "2020-11-29"
+
+﻿+++
+date = "2021-03-07"
 title = "Herrenhaus Grafenort"
-remark = "Verschoben auf 07. März 2021"
 draft = false
 publishdate = "2000-01-01"
 +++
@@ -15,4 +15,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* So, 29. November 2020 // 11.00 Uhr // [Herrenhaus, Grafenort](https://grafenort.ch/veranstaltungen/)
+* NEU: So, 07. März 2021 // 11.00 Uhr // [Herrenhaus, Grafenort](https://grafenort.ch/veranstaltungen/)

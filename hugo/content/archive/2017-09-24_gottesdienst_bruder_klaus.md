@@ -15,5 +15,5 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* So, 24.09.2017 // 10:00 Uhr // Bruder Klaus Kirche Emmen
+* So, 24.09.2017 // 10.00 Uhr // Bruder Klaus Kirche Emmen
 

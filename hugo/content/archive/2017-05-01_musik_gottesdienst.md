@@ -16,7 +16,7 @@ Neben dem geistlichen Lied "Herr wir trau'n auf deine Güte" von Felix Medelssoh
 
 ### Daten
 
-* Sa, 06.05.2017 // 17:00 Uhr // Pfarrkirche Ebikon
-* Sa, 13.05.2017 // 18:00 Uhr // Magdalenenkirche Meggen
-* So, 14.05.2017 // 10:00 Uhr // Pfarrkirche Ebikon
-* Sa, 03.06.2017 // 17:15 Uhr // Hofkirche Luzern
+* Sa, 06.05.2017 // 17.00 Uhr // Pfarrkirche Ebikon
+* Sa, 13.05.2017 // 18.00 Uhr // Magdalenenkirche Meggen
+* So, 14.05.2017 // 10.00 Uhr // Pfarrkirche Ebikon
+* Sa, 03.06.2017 // 17.15 Uhr // Hofkirche Luzern

@@ -15,4 +15,4 @@ Neben dem geistlichen Lied "Herr wir trau'n auf deine Güte" von Felix Medelssoh
 
 ### Datum
 
-* Sa, 03.06.2017 // 17:15 Uhr // Hofkirche Luzern
+* Sa, 03.06.2017 // 17.15 Uhr // Hofkirche Luzern
