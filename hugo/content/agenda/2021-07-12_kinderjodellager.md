@@ -7,7 +7,7 @@ publishdate = "2000-01-01"
 
 Kinderjodellager der Klangwelt Toggenburg
 
-Weitere Informationen und Anmeldung finden Sie auf der Homepage der [Klangwelt] (https://klangwelt.swiss/de/klangwelt-erleben/klangkurse/kurse/kinderjodellager.html#/)
+Weitere Informationen und Anmeldung finden Sie auf der Homepage der [Klangwelt](https://klangwelt.swiss/de/klangwelt-erleben/klangkurse/kurse/kinderjodellager.html#/)
 
 
 ### Datum
