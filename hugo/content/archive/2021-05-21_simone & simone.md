@@ -1,5 +1,4 @@
-﻿
-﻿+++
+﻿﻿+++
 date = "2021-05-21"
 title = "Simone & Simone"
 draft = false

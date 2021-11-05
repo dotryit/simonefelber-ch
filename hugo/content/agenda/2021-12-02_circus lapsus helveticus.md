@@ -1,18 +1,17 @@
-﻿
 ﻿+++
-date = "2021-11-14"
-title = "Herrenhaus Grafenort"
+date = "2021-12-02"
+title = "Circus Lapsus Helveticus"
 draft = false
 publishdate = "2000-01-01"
 +++
 
-### Ha ame ne Ort es Blüemeli gseh im Herrenhaus Grafenort
 
-<br>
 
-* [Simone Felbers iheimisch](https://simonefelbersiheimisch.ch/)
+* Duo Lapsus
+* Band Helveticus: mit Matthias Landtwing, Andreas Gabriel, Pirmin Huber, Lukas Gernet, Kristina Brunner, Iwan Steiner & Simone Felber
+u.v.m.
 
 
 ### Datum
 
-* NEU: So, 14. November 2021 // 11.00 Uhr // [Herrenhaus, Grafenort](https://grafenort.ch/veranstaltungen/)
+* So, 02. Dezember 2021 - So, 02. Januar // [MAAG Music Hall](https://lapsus-helveticus.ch/)

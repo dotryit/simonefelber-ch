@@ -1,5 +1,4 @@
-﻿
-﻿+++
+﻿﻿+++
 date = "2020-11-13"
 title = "Kanti Forum Wohlen"
 draft = false

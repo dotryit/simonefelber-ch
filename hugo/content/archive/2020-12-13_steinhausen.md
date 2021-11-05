@@ -1,5 +1,4 @@
-﻿
-﻿+++
+﻿﻿+++
 date = "2020-12-13"
 title = "Gottesdienst am 3. Advent"
 draft = false
