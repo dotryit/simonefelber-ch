@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on Simone Felber - Mezzosopran</title>
-    <link>http://www.simonefelber.ch/video/</link>
+    <link>http://www.simonefelber.ch/video/index.xml</link>
     <description>Recent content in Videos on Simone Felber - Mezzosopran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    
-	<atom:link href="http://www.simonefelber.ch/video/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://www.simonefelber.ch/video/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
@@ -16,7 +14,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonefelber.ch/video/901_uslegeornig/</guid>
-      <description>Ha ame ne Ort es Blüemeli gseh</description>
+      <description>&lt;p&gt;Ha ame ne Ort es Blüemeli gseh&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,8 +24,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonefelber.ch/video/902_uslegeornig/</guid>
-      <description>Il est quelqu’un sur terre // Lamento // S’truurig Meitli
-Masterabschluss uslegeornig, Neubad Luzern</description>
+      <description>&lt;p&gt;Il est quelqu’un sur terre // Lamento // S’truurig Meitli&lt;br&gt;Masterabschluss uslegeornig, Neubad Luzern&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,8 +34,8 @@ Masterabschluss uslegeornig, Neubad Luzern</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonefelber.ch/video/903_uslegeornig/</guid>
-      <description>Møte aus «Af Haugtussa»
-Masterabschluss uslegeornig, Neubad Luzern</description>
+      <description>&lt;p&gt;Møte aus «Af Haugtussa»&lt;br&gt;Masterabschluss uslegeornig, Neubad Luzern&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,8 +44,8 @@ Masterabschluss uslegeornig, Neubad Luzern</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.simonefelber.ch/video/904_uslegeornig/</guid>
-      <description>S’Toggeburger Ländlerjödeli
-Masterabschluss uslegeornig, Neubad Luzern</description>
+      <description>&lt;p&gt;S’Toggeburger Ländlerjödeli&lt;br&gt;Masterabschluss uslegeornig, Neubad Luzern&lt;/p&gt;
+</description>
     </item>
     
   </channel>
