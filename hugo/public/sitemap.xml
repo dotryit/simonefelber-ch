@@ -1,695 +1,412 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.simonefelber.ch/bio/01_studium/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonefelber.ch/bio/02_jodel/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonefelber.ch/bio/03_unterricht/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/agenda/2021-12-02_circus%20lapsus%20helveticus/</loc>
-    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/agenda/2021-11-14_herrenhaus/</loc>
-    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/agenda/2021-11-13_famm%20z%C3%A4hntesch%C3%BC%C3%BCr/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/agenda/2021-11-07_reformationssonntag/</loc>
-    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-10-22_mozart%20requiem/</loc>
-    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-10-21_k%C3%B6rper-klang-k%C3%B6rper/</loc>
-    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-09-24_the%20quire/</loc>
-    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-09-18_famm%20rathausb%C3%BChne/</loc>
-    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-08-26_obwald/</loc>
-    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-08-21_jodeln%20und%20wandern/</loc>
-    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-07-31_orgelsommer/</loc>
-    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-05-28_famm_chollerhalle/</loc>
-    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-08-10_famm%20davos%20festival/</loc>
-    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-05-21_simone%20&amp;%20simone/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-03-07_herrenhaus/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-12-25_matth%C3%A4uskirche/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-12-24_muri/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-12-13_steinhausen/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-12-03_johannes/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-11-29_herrenhaus/</loc>
-    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-11-13_kantiforum/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-11-07_folkclub%20z%C3%BCrich/</loc>
-    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-10-25_tage%20der%20kulturlandschaft/</loc>
-    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-10-24_kammerchor/</loc>
-    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-10-22_eine%20stimme%20haben/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-10-18_projektjodelchor/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-10-18_ch%C3%BCechlihaus/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-10-17_oekistansstad/</loc>
-    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-10-16_oekistansstad/</loc>
-    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-09-20_bettag/</loc>
-    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-09-18_somehuus/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-09-13_jaun/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-09-09_einsteigerjodelkurs/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-09-06_shintermusegg/</loc>
-    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-09-05_shintermusegg/</loc>
-    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-09-04_shintermusegg/</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-08-27_plattentaufe_seebad/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-07-08_kinderjodellager/</loc>
-    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-06-20_jodelnundwandern/</loc>
-    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-05-31_klangfestival_toggenburg/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-05-30_klangfestival_toggenburg/</loc>
-    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-05-25_jodelnundconnectedsinging/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-05-20_ejcf/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-05-16_volksmusikfestival/</loc>
-    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-05-10_audite_root/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-05-09_audite_meggen/</loc>
-    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-05-03_audite_luzern/</loc>
-    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-05-02_audite_ebikon/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-03-28_bayrischer_rundfunk/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-02-14_sinnesrausch/</loc>
-    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-02-15_sinnesrausch/</loc>
-    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-01-26_abendmusik/</loc>
-    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-01-12_bonstetten/</loc>
-    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-01-11_mettmenstetten/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-12-25_meggen/</loc>
-    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-12-24_ebikon/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-12-15_messias/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-12-12_messias/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-11-16_projektjodelchor/</loc>
-    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-12-25_steinhaus/</loc>
-    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-11-30_verquer/</loc>
-    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-10-17_jodelreise/</loc>
-    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-10-12_wien/</loc>
-    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-09-22_gottesdienst_johannes/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-09-14_spitteler/</loc>
-    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-08-25_lucerne_festival/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-08-08_buskers/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-07-08_kinderjodellager/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-06-19_projektjodelchor/</loc>
-    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-06-14_cantus_meggen/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-06-09_udligenswil/</loc>
-    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-05-30_volksmusik_der_alpenl%C3%A4nder/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-05-19_audite/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-04-20_ostern/</loc>
-    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-04-12_schuetz/</loc>
-    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-04-12_mozart/</loc>
-    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2020-04-16_mozart/</loc>
-    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-03-23_verquer/</loc>
-    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-02-16_kammerchor_luzern/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-02-09_viva_volksmusik/</loc>
-    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-02-06_klangkurs_projektchor/</loc>
-    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2019-01-12_centre_culturel/</loc>
-    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-12-24_weihnachten/</loc>
-    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-11-21_japan/</loc>
-    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-11-01_liederabend/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-10-21_gottesdienst_stein/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-09-22_georgien/</loc>
-    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-09-01_den_haag/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-08-21_die%20urkraft%20im%20jodel/</loc>
-    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-07-13_kinderjodellager/</loc>
-    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2021-07-12_kinderjodellager/</loc>
-    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-05-19_naturstimmen/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-05-09_ejcf/</loc>
-    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-04-19_tuerkei/</loc>
-    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2018-01-13_uslegeornig/</loc>
-    <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-12-25_weihnachten/</loc>
-    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-12-24_solothurn/</loc>
-    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-12-10_oratorio_de_noel/</loc>
-    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-11-17_naturstimmen%20on%20tour/</loc>
-    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-11-15_patagonia/</loc>
-    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-11-12_musik_im_gottesdienst/</loc>
-    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-10-15_collegium/</loc>
-    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-09-24_gottesdienst_bruder_klaus/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-09-23_chornacht/</loc>
-    <lastmod>2017-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-09-09_strassensingen/</loc>
-    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-09-02_lucerne_festival/</loc>
-    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-08-24_iheimisch_seebad/</loc>
-    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-07-01_pastoralraumsfest/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-06-22_jodlerfest/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-06-20_semesterkonzert/</loc>
-    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-06-19_in_the_best_of_all_possible_worlds/</loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-06-06_gottesdienst_audite/</loc>
-    <lastmod>2017-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-05-28_hugo_wolf/</loc>
-    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-05-21_liederabend/</loc>
-    <lastmod>2017-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-05-01_musik_gottesdienst/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-04-08_buxdehude/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-04-01_bayrischer_rundfunk/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/2017-03-04_iheimisch/</loc>
-    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/698_uslegeornig/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/699_uslegeornig/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/797_iheimisch_buskers/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/798_iheimisch_seebad/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/799_iheimisch_cantus/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/898_venus_adonis/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/899_venus_adonis/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/997_japan/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/998_georgien/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/999_stage_lab/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/video/901_uslegeornig/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/video/902_uslegeornig/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/video/903_uslegeornig/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/video/904_uslegeornig/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/archive/</loc>
-    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/bio/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.simonefelber.ch/foto/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.simonefelber.ch/agenda/2021-12-02_circus-lapsus-helveticus/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.simonefelber.ch/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.simonefelber.ch/agenda/2021-11-14_herrenhaus/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/agenda/2021-11-13_famm-z%C3%A4hntesch%C3%BC%C3%BCr/</loc>
+    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/agenda/2021-11-07_reformationssonntag/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-10-22_mozart-requiem/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-10-21_k%C3%B6rper-klang-k%C3%B6rper/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-09-24_the-quire/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-09-18_famm-rathausb%C3%BChne/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-08-26_obwald/</loc>
+    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-08-21_jodeln-und-wandern/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-07-31_orgelsommer/</loc>
+    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-05-28_famm_chollerhalle/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-08-10_famm-davos-festival/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-05-21_simone-simone/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-03-07_herrenhaus/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-12-25_matth%C3%A4uskirche/</loc>
+    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-12-24_muri/</loc>
+    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-12-13_steinhausen/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-12-03_johannes/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-11-29_herrenhaus/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-11-13_kantiforum/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-11-07_folkclub-z%C3%BCrich/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-10-25_tage-der-kulturlandschaft/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-10-24_kammerchor/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-10-22_eine-stimme-haben/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-10-18_projektjodelchor/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-10-18_ch%C3%BCechlihaus/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-10-17_oekistansstad/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-10-16_oekistansstad/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-09-20_bettag/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-09-18_somehuus/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-09-13_jaun/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-09-09_einsteigerjodelkurs/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-09-06_shintermusegg/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-09-05_shintermusegg/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-09-04_shintermusegg/</loc>
+    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-08-27_plattentaufe_seebad/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-07-08_kinderjodellager/</loc>
+    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-06-20_jodelnundwandern/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-05-31_klangfestival_toggenburg/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-05-30_klangfestival_toggenburg/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-05-25_jodelnundconnectedsinging/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-05-20_ejcf/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-05-16_volksmusikfestival/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-05-10_audite_root/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-05-09_audite_meggen/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-05-03_audite_luzern/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-05-02_audite_ebikon/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-03-28_bayrischer_rundfunk/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-02-14_sinnesrausch/</loc>
+    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-02-15_sinnesrausch/</loc>
+    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-01-26_abendmusik/</loc>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-01-12_bonstetten/</loc>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-01-11_mettmenstetten/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-12-25_meggen/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-12-24_ebikon/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-12-15_messias/</loc>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-12-12_messias/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-11-16_projektjodelchor/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-11-30_verquer/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-12-25_steinhaus/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-10-17_jodelreise/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-10-12_wien/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-09-22_gottesdienst_johannes/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-09-14_spitteler/</loc>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-08-25_lucerne_festival/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-08-08_buskers/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-07-08_kinderjodellager/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-06-19_projektjodelchor/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-06-14_cantus_meggen/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-06-09_udligenswil/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-05-30_volksmusik_der_alpenl%C3%A4nder/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-05-19_audite/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-04-20_ostern/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-04-12_schuetz/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-04-12_mozart/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2020-04-16_mozart/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-03-23_verquer/</loc>
+    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-02-16_kammerchor_luzern/</loc>
+    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-02-09_viva_volksmusik/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-02-06_klangkurs_projektchor/</loc>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2019-01-12_centre_culturel/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-12-24_weihnachten/</loc>
+    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-11-21_japan/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-11-01_liederabend/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-10-21_gottesdienst_stein/</loc>
+    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-09-22_georgien/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-09-01_den_haag/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-08-21_die-urkraft-im-jodel/</loc>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-07-13_kinderjodellager/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2021-07-12_kinderjodellager/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-05-19_naturstimmen/</loc>
+    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-05-09_ejcf/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-04-19_tuerkei/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2018-01-13_uslegeornig/</loc>
+    <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-12-25_weihnachten/</loc>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-12-24_solothurn/</loc>
+    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-12-10_oratorio_de_noel/</loc>
+    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-11-17_naturstimmen-on-tour/</loc>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-11-15_patagonia/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-11-12_musik_im_gottesdienst/</loc>
+    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-10-15_collegium/</loc>
+    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-09-24_gottesdienst_bruder_klaus/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-09-23_chornacht/</loc>
+    <lastmod>2017-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-09-09_strassensingen/</loc>
+    <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-09-02_lucerne_festival/</loc>
+    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-08-24_iheimisch_seebad/</loc>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-07-01_pastoralraumsfest/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-06-22_jodlerfest/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-06-20_semesterkonzert/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-06-19_in_the_best_of_all_possible_worlds/</loc>
+    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-06-06_gottesdienst_audite/</loc>
+    <lastmod>2017-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-05-28_hugo_wolf/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-05-21_liederabend/</loc>
+    <lastmod>2017-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-05-01_musik_gottesdienst/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-04-08_buxdehude/</loc>
+    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-04-01_bayrischer_rundfunk/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/archive/2017-03-04_iheimisch/</loc>
+    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/698_uslegeornig/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/699_uslegeornig/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/797_iheimisch_buskers/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/798_iheimisch_seebad/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/799_iheimisch_cantus/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/898_venus_adonis/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/899_venus_adonis/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/997_japan/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/998_georgien/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/999_stage_lab/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/video/901_uslegeornig/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/video/902_uslegeornig/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/video/903_uslegeornig/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/video/904_uslegeornig/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/bio/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/categories/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/foto/</loc>
+  </url><url>
+    <loc>http://www.simonefelber.ch/tags/</loc>
+  </url><url>
     <loc>http://www.simonefelber.ch/video/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>

@@ -5,10 +5,6 @@
     <link>http://www.simonefelber.ch/tags/</link>
     <description>Recent content in Tags on Simone Felber - Mezzosopran</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-ch</language>
-    
-	<atom:link href="http://www.simonefelber.ch/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de-ch</language><atom:link href="http://www.simonefelber.ch/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

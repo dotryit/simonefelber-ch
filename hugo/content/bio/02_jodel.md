@@ -1,5 +1,5 @@
 +++
-weight = 02
+weight = 2
 title = "Jodel"
 draft = false
 +++

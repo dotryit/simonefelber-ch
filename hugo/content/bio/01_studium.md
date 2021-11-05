@@ -1,5 +1,5 @@
 ﻿+++
-weight = 01
+weight = 1
 title = "Studium"
 draft = false
 +++

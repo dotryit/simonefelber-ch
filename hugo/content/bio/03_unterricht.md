@@ -1,5 +1,5 @@
 +++
-weight = 03
+weight = 3
 title = "Unterricht"
 draft = false
 +++
