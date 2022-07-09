@@ -14,4 +14,4 @@ Weitere Informationen und Anmeldung finden Sie auf der Homepage der [KlangWelt](
 
 ### Datum
 
-* Mo, 11. Juli 2022 - Fr, 16. Juli 2022 // Wildhaus
+* Mo, 11. Juli 2022 - Fr, 15. Juli 2022 // Wildhaus
