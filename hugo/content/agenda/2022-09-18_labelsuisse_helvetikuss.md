@@ -19,4 +19,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* So, 18. September 2022 // 16.00 Uhr // [Label Suisse Festival, Lausanne](hhttps://labelsuisse.ch/de/programm/event/440/)
+* So, 18. September 2022 // 16.00 Uhr // [Label Suisse Festival, Lausanne](https://labelsuisse.ch/de/programm/event/440/)

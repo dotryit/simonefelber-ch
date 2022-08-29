@@ -2,7 +2,6 @@
 <div id="archiv" class="container-fluid content text-center">
 
   <h1>Vergangene Veranstaltungen</h1>
-  <hr/>
 
   {{ range where .Site.RegularPages.ByDate.Reverse "Section" "==" "archive" }}
     {{ if isset .Params "remark" }}
@@ -10,7 +9,7 @@
     {{ end }}
     <h2>{{ .Title }}</h2>
     {{ .Content }}
-    <hr/>
   {{ end }}
 
 </div>
+<hr>

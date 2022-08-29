@@ -1,10 +1,16 @@
 
 body {
   font-family: Arial,sans-serif;
+  background-color: black;
+  color: white;
 }
 
 h1 {
   margin-bottom: 40px;
+}
+
+h2 {
+  margin-top: 100px;
 }
 
 h3 {
@@ -26,7 +32,7 @@ ul {
 
 hr {
   margin-bottom: 60px;
-  border-top: 3px solid #888;
+  border-top: 3px solid white;
 }
 
 #remark {
@@ -42,8 +48,8 @@ hr {
 }
 
 .content {
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .navbar li a, .navbar .navbar-brand {
@@ -90,18 +96,18 @@ hr {
 }
 
 #cd {
-  background-color: #b8b8c3;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 #kontakt {
-  background-color: #b8b8c3;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 #projekte {
-  background-color: #b8b8c3;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 #projekte p {
@@ -114,21 +120,21 @@ hr {
 }
 
 #fotos {
-  background-color: #474e5d;
+  background-color: black;
   color: white;
 }
 
 #footer {
-  background-color: #2f2f2f;
+  background-color: black;
   color: white;
 }
 
 #newsletter {
-  background-color: #474e5d;
+  background-color: black;
   color: white;
 }
 
 #biografie  {
-  background-color: #474e5d;
+  background-color: black;
   color: white;
 }
