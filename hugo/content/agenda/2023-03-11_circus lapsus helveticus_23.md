@@ -9,7 +9,7 @@ publishdate = "2000-01-01"
 * Band Helvetikuss:  
 * Matthias Landtwing, Musikalische Leitung / Klarinetten
 * Kristina Brunner, Örgeli / Cello
-* Simone Felber, Jodel / Gesang
+* Simone Felber/Juliana Kubli Jodel / Gesang
 * Andreas Gabriel, Geige / Gesang
 * Lukas Gernet, Piano / Nord Stage / Gesang
 * Pirmin Huber, Bass, Büchel, Örgeli
@@ -22,7 +22,7 @@ publishdate = "2000-01-01"
 
 * &#x20;11. März 2023 - 02. April 2023 // [MAAG Music Hall](https://lapsus-helveticus.ch/)
 
-Ich singe an folgenden Daten:
+Aufführungen mit Besetzung Simone Felber:
 
 * Sa, 11. März 2023
 * Di, 14. März 2023
