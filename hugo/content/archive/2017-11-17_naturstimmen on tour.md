@@ -7,14 +7,14 @@ publishdate = "2000-01-01"
 
 mit
 
-* [jutz.ch] (www.jugendchor-jutz.ch)
+* [jutz.ch](www.jugendchor-jutz.ch)
 * Trio Han Vivi
 * Christian Metzler
 * Nadja Räss, Moderation
 
 Gratis Jodelkurs mit Nadja Räss und Christian Metzler vor jedem Konzert.
 
-Weitere Informationen zu den Konzerten und zum Vorverkauf finden sie [hier] (http://www.klangwelt.ch/de/klangfestival/on-tour-2017).
+Weitere Informationen zu den Konzerten und zum Vorverkauf finden sie [hier](http://www.klangwelt.ch/de/klangfestival/on-tour-2017).
 
 ### Datum
 

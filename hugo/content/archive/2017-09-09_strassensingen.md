@@ -5,7 +5,7 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-Genaue Zeiten werden am Tag auf unserer [Facebook-] (https://de-de.facebook.com/jutzch/) und [Instagramseite] (https://www.instagram.com/jutz.ch/) publiziert.
+Genaue Zeiten werden am Tag auf unserer [Facebook-](https://de-de.facebook.com/jutzch/) und [Instagramseite](https://www.instagram.com/jutz.ch/) publiziert.
 
 ### Datum
 

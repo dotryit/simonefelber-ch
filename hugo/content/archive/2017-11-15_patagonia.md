@@ -10,7 +10,7 @@ publishdate = "2000-01-01"
 
 * Gäste: Marc Halbheer, Drums Jodok Vuille, Cello und Simone Felber, Gesang
 
-Weitere Informationen zum Konzert finden Sie [hier] (https://www.facebook.com/events/385187505233919/ "Patagonia").
+Weitere Informationen zum Konzert finden Sie [hier](https://www.facebook.com/events/385187505233919/).
 
 ### Datum
 

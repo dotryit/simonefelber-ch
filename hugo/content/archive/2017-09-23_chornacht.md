@@ -9,7 +9,7 @@ publishdate = "2000-01-01"
 
 Mit dem Collegium Vocale zu Franzikanern (Leitung Ulrike Grosch) bin ich Teil der ersten Luzerner Chornacht.
 
-Weitere Informationen sind auf der Homepage des [Collegium Vocale] (http://www.collegiumvocale.ch "Collegium Vocale") zu finden.
+Weitere Informationen sind auf der Homepage des [Collegium Vocale](http://www.collegiumvocale.ch) zu finden.
 
 ### Datum
 

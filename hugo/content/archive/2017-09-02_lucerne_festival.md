@@ -7,7 +7,7 @@ publishdate = "2000-01-01"
 
 ### Patricia Kopatchinskaja | Ensemble der LUCERNE FESTIVAL ALUMNI u.a.
 
-Alle Informationen und Vorverkauf: [Patricia Kopatchinskaja | Ensemble der LUCERNE FESTIVAL ALUMNI u.a.] (https://www.lucernefestival.ch/de/programm/patricia-kopatchinskaja-ensemble-der-lucerne-festival-alumni-ua/454)
+Alle Informationen und Vorverkauf: [Patricia Kopatchinskaja | Ensemble der LUCERNE FESTIVAL ALUMNI u.a.](https://www.lucernefestival.ch/de/programm/patricia-kopatchinskaja-ensemble-der-lucerne-festival-alumni-ua/454)
 
 ### Datum
 

@@ -11,4 +11,4 @@ Zum Abschluss des [Workshops "Jodel in Theorie & Praxis"](https://www.hslu.ch/de
 
 ### Datum
 
-* Di, 20.06.2017 // 20.00 Uhr // [Haus der Volksmusik] (http://www.hausdervolksmusik.ch/index.php/veranstaltungen/konzerte-stubeten "Veranstaltungen Haus der Volksmusik") // Rapperswil-Jona
+* Di, 20.06.2017 // 20.00 Uhr // [Haus der Volksmusik](http://www.hausdervolksmusik.ch/index.php/veranstaltungen/konzerte-stubeten) // Rapperswil-Jona

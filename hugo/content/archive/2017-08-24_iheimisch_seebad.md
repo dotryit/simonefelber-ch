@@ -9,8 +9,8 @@ publishdate = "2000-01-01"
 **Das Konzert findet definitiv statt**
 
 * Simone Felber - Stimme
-* [Adrian Würsch] (http://www.adrianwuersch.ch "Adrian Würsch") - Schwyzerörgeli
-* [Pirmin Huber] (http://www.priminhuber.com "Pirmin Huber") - Kontrabass
+* [Adrian Würsch](http://www.adrianwuersch.ch) - Schwyzerörgeli
+* [Pirmin Huber](http://www.pirminhuber.com) - Kontrabass
 
 
 ### Datum

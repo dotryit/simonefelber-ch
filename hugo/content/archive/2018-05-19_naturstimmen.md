@@ -16,4 +16,4 @@ Jugendchor jutz.ch am Klangfestival
 
 * Sa, 19.05.2018 // 20.00 Uhr // Katholische Kirche Alt St. Johann
 
-Tickets und weitere Informationen zum Festival finden Sie auf der Homepage der [KlangWelt] (http://www.klangwelt.ch/)
+Tickets und weitere Informationen zum Festival finden Sie auf der Homepage der [KlangWelt](http://www.klangwelt.ch/)
