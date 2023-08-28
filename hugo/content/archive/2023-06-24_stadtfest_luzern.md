@@ -12,6 +12,6 @@ Stadtfest Luzern
 
 ### Datum
 
-* Sa, 24.06.2023 // 11 Uhr // Mühleplatz, Luzern
+* Sa, 24.06.2023 // 11 Uhr // Weinmarkt, Luzern
 
 
