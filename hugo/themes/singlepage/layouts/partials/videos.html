@@ -3,7 +3,7 @@
   <h1>Videos</h1>
 
   <div class="row text-center">
-    {{ range where .Site.RegularPages.ByWeight "Section" "==" "video"}}
+    {{ range where .Site.RegularPages.ByWeight.Reverse "Section" "==" "video"}}
       <div class="col-sm-6">
         <div class="video">
           <div class="video-pad">

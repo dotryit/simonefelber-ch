@@ -8,58 +8,67 @@
     <language>de-ch</language><atom:link href="http://www.simonefelber.ch/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://www.simonefelber.ch/video/100_matter_reloaded/</link>
+      <link>http://www.simonefelber.ch/video/100_uslegeornig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.simonefelber.ch/video/100_matter_reloaded/</guid>
-      <description>Matter Reloaded: Dr Dings</description>
+      <guid>http://www.simonefelber.ch/video/100_uslegeornig/</guid>
+      <description>S’Toggeburger Ländlerjödeli
+Masterabschluss uslegeornig, Neubad Luzern</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.simonefelber.ch/video/110_bluemli/</link>
+      <link>http://www.simonefelber.ch/video/110_uslegeornig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.simonefelber.ch/video/110_bluemli/</guid>
-      <description>Ha ame ne Ort es Blüemeli gseh</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.simonefelber.ch/video/120_item/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.simonefelber.ch/video/120_item/</guid>
-      <description>Item</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.simonefelber.ch/video/160_famm_s/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.simonefelber.ch/video/160_famm_s/</guid>
-      <description>famm Teaser 2 &amp;ldquo;s&#39; - Ein Liederprogramm über s’Babeli, s’Liseli und andere starke Frauen.&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.simonefelber.ch/video/903_uslegeornig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.simonefelber.ch/video/903_uslegeornig/</guid>
+      <guid>http://www.simonefelber.ch/video/110_uslegeornig/</guid>
       <description>Il est quelqu’un sur terre // Lamento // S’truurig Meitli
 Masterabschluss uslegeornig, Neubad Luzern</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.simonefelber.ch/video/904_uslegeornig/</link>
+      <link>http://www.simonefelber.ch/video/120_famm_s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.simonefelber.ch/video/904_uslegeornig/</guid>
-      <description>S’Toggeburger Ländlerjödeli
-Masterabschluss uslegeornig, Neubad Luzern</description>
+      <guid>http://www.simonefelber.ch/video/120_famm_s/</guid>
+      <description>famm Teaser 2 &amp;ldquo;s&#39; - Ein Liederprogramm über s’Babeli, s’Liseli und andere starke Frauen.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.simonefelber.ch/video/130_item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonefelber.ch/video/130_item/</guid>
+      <description>Item</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.simonefelber.ch/video/140_bluemli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonefelber.ch/video/140_bluemli/</guid>
+      <description>Ha ame ne Ort es Blüemeli gseh</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.simonefelber.ch/video/150_matter_reloaded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonefelber.ch/video/150_matter_reloaded/</guid>
+      <description>Matter Reloaded: Dr Dings</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.simonefelber.ch/video/160_stadt_x_land/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.simonefelber.ch/video/160_stadt_x_land/</guid>
+      <description>Stadt x Land: James Varghese x Simone Felber</description>
     </item>
     
   </channel>

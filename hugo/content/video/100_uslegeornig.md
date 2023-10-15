@@ -1,5 +1,5 @@
 ﻿+++
-weigth = 904
+weigth = 100
 src = "https://www.youtube.com/embed/yzIj9aj3gsY"
 draft = false
 +++
