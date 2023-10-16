@@ -5,7 +5,9 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-### Workshop am Chorleiter*innentreffen [EJCF](https://www.ejcf.ch/programm/12-schweizerisches-chorleiterinnen-treffen/)
+<br>
+
+Workshop am Chorleiter*innentreffen [EJCF](https://www.ejcf.ch/programm/12-schweizerisches-chorleiterinnen-treffen/)
 
 ### Datum
 

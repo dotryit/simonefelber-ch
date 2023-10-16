@@ -7,16 +7,15 @@ publishdate = "2000-01-01"
 
 ### Heimatklänge #2 
 
+<br>
+
 * [Mathias Landtwing](https://mathiaslandtwing.ch/) - Klarinette, Bandleader, Kompositionen, Arrangemts
 * [Maria Gehrig](https://www.mariagehrig.ch/) - Geige
 * [Fränggi Gehrig](https://www.fraenggigehrig.com/) - Akkordeon
 * Laurent Girard - Klavier
 * Jonas Künzle - Bass
 * [Chrigi Zünd](https://www.christianzuend.com/) - Drums
-* Simone Felber - Gesang, Komposition
-
-<br>
-
+* Simone Felber - Gesang
 
 ### Datum
 

@@ -5,6 +5,8 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
+<br>
+
 Jodeln für Fortgeschrittene, Anmeldung zum Kurs auf der Homepage der [Klangwelt Toggenburg](https://shop.e-guma.ch/klangwelt/de/events/jodeln-fuer-fortgeschrittene-nr-23-005-1013155)
 
 * Simone Felber - Jodel

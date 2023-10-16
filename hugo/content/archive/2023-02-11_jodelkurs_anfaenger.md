@@ -5,6 +5,8 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
+<br>
+
 Jodeln für Anfänger:innen, Anmeldung zum Kurs auf der Homepage der [Klangwelt Toggenburg](https://shop.e-guma.ch/klangwelt/de/events/jodeln-fuer-anfaenger-innen-nr-23-004-1138858)
 
 * Simone Felber - Jodel

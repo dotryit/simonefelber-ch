@@ -7,6 +7,7 @@ publishdate = "2000-01-01"
 
 ### hedi drescht
 
+<br>
 
 * Simone Felber (voc.)
 * Lukas Gernet, (p.)
@@ -14,5 +15,3 @@ publishdate = "2000-01-01"
 ### Datum
 
 * Sa, 18.November 2023 // 19.30 Uhr // Kultursalon Felsenegg, Sempach // [Reservation](https://kultursalon-felsenegg.ch/)
-
-

@@ -8,6 +8,7 @@ publishdate = "2000-01-01"
 ### Jodelkurs für Kinder und Erwachsene mit Simone Felber
 
 <br>
+
 * Kurs 1 Kinder // 17.00 - 18.00 Uhr
 * Kurs 2 Erwachsene // 18.30 - 20.00 Uhr
 

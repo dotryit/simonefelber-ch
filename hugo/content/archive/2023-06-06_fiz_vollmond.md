@@ -5,9 +5,9 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-<br>
-
 ### Singabend 
+
+<br>
 
 * Simone Felber, Leitung
 * Anmeldung und Information [F*iZ](https://fiz-luzern.ch/de/veranstaltungen/den-vollmond-besingen/)

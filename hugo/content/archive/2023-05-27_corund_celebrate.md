@@ -5,9 +5,9 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-<br>
-
 ### Ensemble Corund 
+
+<br>
 
 * Eva Hagberg, Orgel
 * Leitung: Stephen Smith, [Ensemble Corund](https://corund.ch/konzerte)

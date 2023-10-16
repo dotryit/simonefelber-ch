@@ -35,6 +35,10 @@ hr {
   border-top: 3px solid white;
 }
 
+a {
+  color: #9cc2e3;
+}
+
 #remark {
 	color: red;
 	font-size: x-large;

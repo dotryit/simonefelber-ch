@@ -5,18 +5,15 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
-### Festival 
-
-Musik im Rahmenprogramm mit
-* [Raphael Loher](https://www.raphaelloher.com/)
-* [Polina Niederhauser](https://www.instagram.com/poli.nie/?hl=de)
-* Jeremy Sigrist
-* [Adrian Würsch](http://www.adrianwuersch.com/aktuell)
-* Simone Felber
+### Festival
 
 <br>
+
+Musik im Rahmenprogramm mit
+
+* [Adrian Würsch](http://www.adrianwuersch.com/aktuell) & Simone Felber
 
 
 ### Datum
 
-* Di, 31. Oktober 2023 bis Fr, 3. November 2023  // Neubad, Luzern // [Tickets und Infos](https://www.menschenschau.ch/festival) 
+* Mi, 1. November 2023  // Neubad, Luzern // [Tickets und Infos](https://www.menschenschau.ch/festival) 

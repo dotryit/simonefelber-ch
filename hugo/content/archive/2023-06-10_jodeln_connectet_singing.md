@@ -5,6 +5,7 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
+<br>
 
 Informationen zu diesem tollen Kurs gibt es auf der Homepage der [Klangwelt Toggenburg](https://shop.e-guma.ch/klangwelt/de/events/jodeln-und-connected-singing-nr-23-027-2866518)
 

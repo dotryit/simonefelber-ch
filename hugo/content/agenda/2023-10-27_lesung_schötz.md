@@ -12,7 +12,6 @@ publishdate = "2000-01-01"
 * Heinz Stalder - Lesung
 * Simone Felber - Stimme 
 
-
 ### Datum
 
 * Fr, 27. Oktober 2023  // 19.30 Uhr // Biffig 1, Schötz // Eintritt frei, Kollekte

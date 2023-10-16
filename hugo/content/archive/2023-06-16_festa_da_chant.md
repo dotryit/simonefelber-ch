@@ -5,6 +5,8 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
+<br>
+
 * Di da chant - Bezirksgesangsfest im Val Müstair
 * Workshop für Kinder [Festa da Chant](https://www.val-muestair.ch/de/festa-da-chant)
 

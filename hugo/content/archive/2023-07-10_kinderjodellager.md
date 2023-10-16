@@ -5,6 +5,8 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
+<br>
+
 Kinderjodellager der Klangwelt Toggenburg
 
 Weitere Informationen und Anmeldung finden Sie auf der Homepage der [KlangWelt](https://shop.e-guma.ch/klangwelt/de/events/kinderjodellager-nr-23-030-3744768)
