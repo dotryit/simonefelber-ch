@@ -11,4 +11,4 @@ Tageskurs Jodeln für Anfänger:innen in Luzern. Anmeldung via Homepage der [Kla
 
 ### Datum
 
-* Sa, 09. März 2024 // 10:00 bis 16:00 Uhr // Luzern
+* Sa, 09. März 2024 // 10:00 bis 16:00 Uhr // Luzern - AUSVERKAUFT

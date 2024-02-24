@@ -11,4 +11,4 @@ Tageskurs Jodeln für Anfänger:innen in Zürich. Anmeldung via Homepage der [Kl
 
 ### Datum
 
-* Sa, 16. März 2024 // 10:00 bis 16:00 Uhr // Breitingersaal, Kulturhaus Helferei, Zürich
+* Sa, 16. März 2024 // 10:00 bis 16:00 Uhr // Breitingersaal, Kulturhaus Helferei, Zürich - AUSVERKAUFT
