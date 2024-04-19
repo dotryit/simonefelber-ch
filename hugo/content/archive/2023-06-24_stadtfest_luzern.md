@@ -9,8 +9,8 @@ publishdate = "2000-01-01"
 
 Stadtfest Luzern 
 
-* Simone Felber (voc.)
-* Lukas Gernet, (p.)
+* Simone Felber - Gesang
+* Lukas Gernet - Klavier
 
 ### Datum
 

@@ -9,8 +9,8 @@ publishdate = "2000-01-01"
 
 Festival des Arcs [Festival des Arcs](https://festivaldesarcs.ch/infos/programm/)
 
-* Simone Felber (voc.)
-* Lukas Gernet, (p.)
+* Simone Felber - Gesang
+* Lukas Gernet - Klavier
 
 ### Datum
 

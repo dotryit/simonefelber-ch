@@ -9,17 +9,17 @@ publishdate = "2000-01-01"
 
 <br>
 
-* Simone Felber (voc.)
-* Lukas Gernet, (p.)
+* Simone Felber - Gesang
+* Lukas Gernet - Klavier
 
 
 ### Simone Felbers iheimisch
 
 <br>
 
-* Simone Felber (voc.)
-* Adrian Würsch (Schwyzerörgeli)
-* Pirmin Huber (Kontrabass)
+* Simone Felber - Gesang
+* Adrian Würsch - Schwyzerörgeli
+* Pirmin Huber - Kontrabass
 
 ### Datum
 

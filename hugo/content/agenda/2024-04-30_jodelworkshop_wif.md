@@ -5,6 +5,8 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
+<br>
+
 Workshop im Rahmen des WIF - Wirtschaftsforum für Frauen
 
 * Simone Felber - Leitung
