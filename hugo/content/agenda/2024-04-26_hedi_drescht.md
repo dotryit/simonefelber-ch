@@ -7,7 +7,7 @@ publishdate = "2000-01-01"
 
 ### hedi drescht
 
-<br>s
+<br>
 
 * Simone Felber - Gesang
 * Lukas Gernet - Klavier

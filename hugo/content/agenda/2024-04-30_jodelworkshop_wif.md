@@ -1,5 +1,5 @@
 ﻿+++
-date = "2024-04-30"
+date = "2024-05-22"
 title = "Jodelworkshop"
 draft = false
 publishdate = "2000-01-01"
@@ -13,4 +13,4 @@ Workshop im Rahmen des WIF - Wirtschaftsforum für Frauen
 
 ### Datum
 
-* Di, 30. April 2024 // [Information](https://www.wif-wirtschaftsforum.ch/events/jahresprogramm)
+* Mi, 22. Mai 2024 // [Information](https://www.wif-wirtschaftsforum.ch/events/jahresprogramm)
