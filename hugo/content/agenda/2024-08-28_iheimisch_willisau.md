@@ -5,6 +5,7 @@ draft = false
 publishdate = "2000-01-01"
 +++
 
+### totetänz
 <br>
 
 * Simone Felber - Gesang
@@ -14,4 +15,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* So, 11. August 2024 // Jazz Festival Willisau // Willisau // [Vorverkauf](https://www.jazzfestivalwillisau.ch/news/)
+* So, 28. August 2024 // Jazz Festival Willisau // Willisau // [Vorverkauf](https://www.jazzfestivalwillisau.ch/news/)

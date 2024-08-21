@@ -1,9 +1,11 @@
 +++
-date = "2024-09-21"
+date = "2024-09-19"
 title = "Simone Felbers iheimisch"
 draft = false
 publishdate = "2000-01-01"
 +++
+
+
 ### totetänz
 <br>
 
@@ -11,7 +13,8 @@ publishdate = "2000-01-01"
 * Adrian Würsch - Schwyzerörgeli
 * Polina Niederberger - Cello
 * Rafael Jerjen - Kontrabass
+ 
 
 ### Datum
 
-* Sa, 21. September 2024 // Konsum, Cazis // [Information](https://konsum-cazis.ch/)
+* Do, 19. September 2024 // Grenzgängig // Volksmusik auf neuen Wegen // PROGR, Bern // [Information](https://www.progr.ch/de/agenda/graenzgaengig-volksmusik-auf-neuen-wegen-6921/)

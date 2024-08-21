@@ -4,7 +4,8 @@
     <title>Tags on Simone Felber</title>
     <link>http://www.simonefelber.ch/tags/</link>
     <description>Recent content in Tags on Simone Felber</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-ch</language><atom:link href="http://www.simonefelber.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo 0.125.1</generator>
+    <language>de-ch</language>
+    <atom:link href="http://www.simonefelber.ch/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
