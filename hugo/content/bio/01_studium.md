@@ -1,10 +1,10 @@
-﻿+++
+﻿﻿+++
 weight = 1
 title = "Studium"
 draft = false
 +++
 
-Singen war schon immer ein Teil von Simone Felbers Leben. Im Chor gross geworden durfte sie schon früh an 
+Singen war schon immer ein Teil von Simone Felbers Leben. Im Chor gross geworden, durfte sie schon früh an 
 Chorwettbewerben teilnehmen und kam mit verschiedenen Stilen in Berührung.
 Nach abgeschlossener Matura mit Schwerpunkt Musik begann sie 2012 das Studium an der Hochschule Luzern - Musik bei Prof. Barbara Locher
 und schloss den Master of Arts in Vokalpädagogik im Jahr 2018 mit Bestnote ab. 
