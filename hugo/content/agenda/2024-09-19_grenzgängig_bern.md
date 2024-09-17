@@ -1,18 +1,15 @@
 +++
 date = "2024-09-19"
-title = "Simone Felbers iheimisch"
+title = "Grenzgängig"
 draft = false
 publishdate = "2000-01-01"
 +++
 
 
-### totetänz
+### Viertaktmotor & Simone Felber
 <br>
 
-* Simone Felber - Gesang
-* Adrian Würsch - Schwyzerörgeli
-* Polina Niederberger - Cello
-* Rafael Jerjen - Kontrabass
+Volksmusik auf neuen Wegen
  
 
 ### Datum
