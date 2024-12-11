@@ -9,7 +9,7 @@ publishdate = "2000-01-01"
 
 * Simone Felber - Gesang
 * Adrian Würsch - Schwyzerörgeli
-* Polina Niederberger - Cello
+* Polina Niederhauser - Cello
 * Rafael Jerjen - Kontrabass
 
 ### Datum
