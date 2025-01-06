@@ -1,5 +1,5 @@
 ﻿﻿+++
-date = "2025-01-10"
+date = "2025-02-01"
 title = "Lauralei"
 draft = false
 publishdate = "2000-01-01"
@@ -17,4 +17,5 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Fr, 10. Januar 2025 // 19:30 Uhr // Bibliothek Teufen AI
+* Sa, 01. Februar 2025 // 20:30 Uhr // Aateigi, Sarnen
+* Vor der Lesung ist es möglich, ab 18:00 Uhr die vorzügliche Küche von PATARAZZI zu geniessen. [Reservation](https://www.pastarazzi.ch/event-list)
