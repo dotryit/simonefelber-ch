@@ -1,6 +1,7 @@
 +++
 date = "2025-01-18"
 title = "Simone Felbers iheimisch"
+remark = "Wegen Krankheit abgesagt"
 draft = false
 publishdate = "2000-01-01"
 +++

@@ -4,10 +4,10 @@
   <h1>Live</h1>
 
   {{ range where .Site.RegularPages.ByDate "Section" "==" "agenda" }}
+    <h2>{{ .Title }}</h2>
     {{ if isset .Params "remark" }}
       <div id="remark">{{ .Params.remark }}</div>
     {{ end }}
-    <h2>{{ .Title }}</h2>
     {{ .Content }}
     <br>___ ___ ___
   {{ end }}
