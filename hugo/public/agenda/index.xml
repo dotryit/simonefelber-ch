@@ -2,67 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agendas on Simone Felber</title>
-    <link>http://www.simonefelber.ch/agenda/</link>
+    <link>http://localhost:1313/agenda/</link>
     <description>Recent content in Agendas on Simone Felber</description>
     <generator>Hugo 0.125.1</generator>
     <language>de-ch</language>
     <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.simonefelber.ch/agenda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/agenda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://www.simonefelber.ch/agenda/2025-04-10_iheimisch_k%C3%BCnstlerb%C3%B6rse/</link>
+      <link>http://localhost:1313/agenda/2025-12-06-iheimisch_niederrickenbach/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2025-04-10_iheimisch_k%C3%BCnstlerb%C3%B6rse/</guid>
+      <guid>http://localhost:1313/agenda/2025-12-06-iheimisch_niederrickenbach/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 06. Dezember 2025 // 16:30 Uhr // Wallfahrtskirche Niederrickenbach // Information Konzertreihe A-Horn </description>
     </item>
     <item>
       <title>Jodeln und Connected Singing</title>
-      <link>http://www.simonefelber.ch/agenda/2025-04-26_jodelnundconnectedsinging/</link>
+      <link>http://localhost:1313/agenda/2025-04-26_jodelnundconnectedsinging/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2025-04-26_jodelnundconnectedsinging/</guid>
+      <guid>http://localhost:1313/agenda/2025-04-26_jodelnundconnectedsinging/</guid>
       <description>&#xA;Anmeldung zum Kurs auf der Homepage der Klangwelt Toggenburg&#xA;Leitung: Simone Felber Datum Sa, 26. April bis So, 27. April 2025 // Klanghaus Unterwasser </description>
     </item>
     <item>
       <title>sältä scheen! - AUSVERKAUFT</title>
-      <link>http://www.simonefelber.ch/agenda/2025-04-11_eve_heimatabend/</link>
+      <link>http://localhost:1313/agenda/2025-04-11_eve_heimatabend/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2025-04-11_eve_heimatabend/</guid>
+      <guid>http://localhost:1313/agenda/2025-04-11_eve_heimatabend/</guid>
       <description>Heimatabend - Echo vom Eierstock mit Lisa Christ Eveline und Kristina Brunner Hannah Shakti Bühler und Simon Mayer und Echo vom Eierstock Simone Felber - musikalische Leitung Datum Fr, 11. April und Sa, 12. April 2025 // 20:00 Uhr // Theater an der Mürg, Stans </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://www.simonefelber.ch/agenda/2025-12-06_iheimisch_niederrickenbach/</link>
+      <link>http://localhost:1313/agenda/2025-04-10_iheimisch_k%C3%BCntlerb%C3%B6rse/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2025-12-06_iheimisch_niederrickenbach/</guid>
+      <guid>http://localhost:1313/agenda/2025-04-10_iheimisch_k%C3%BCntlerb%C3%B6rse/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 10. April 2025 // 10:00 bis 11:15 Uhr // Künstlerbörse Thun, Schadausaal // Tickets und Information </description>
     </item>
     <item>
       <title>Jodelworkshop in Rapperswil</title>
-      <link>http://www.simonefelber.ch/agenda/2025-04-05_jodeln_anf%C3%A4ngerinnen_rapperswil/</link>
+      <link>http://localhost:1313/agenda/2025-04-05_jodeln_anf%C3%A4ngerinnen_rapperswil/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2025-04-05_jodeln_anf%C3%A4ngerinnen_rapperswil/</guid>
+      <guid>http://localhost:1313/agenda/2025-04-05_jodeln_anf%C3%A4ngerinnen_rapperswil/</guid>
       <description>&#xA;Jodeln für Anfänger*innen Informationen und Anmeldung zum Workshop unter proMusicante&#xA;Leitung: Simone Felber Datum Sa, 05. April 2025 // 12:30 Uhr bis 17:00 Uhr // Haus der Musik, Rapperswil </description>
     </item>
     <item>
       <title>äinigermasse dehäi</title>
-      <link>http://www.simonefelber.ch/agenda/2025-03-22_hedi_drescht_rapperswil/</link>
+      <link>http://localhost:1313/agenda/2025-03-22_hedi_drescht_rapperswil/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2025-03-22_hedi_drescht_rapperswil/</guid>
+      <guid>http://localhost:1313/agenda/2025-03-22_hedi_drescht_rapperswil/</guid>
       <description>hedi drescht Simone Felber - Gesang Lukas Gernet - Klavier Datum Sa, 22. März 2025 // ab 18:30 Uhr Barbetrieb // 19.30 Uhr Konzert // Haus der Musik, Rapperswil // Information </description>
-    </item>
-    <item>
-      <title>Jodelworkshop in Luzern</title>
-      <link>http://www.simonefelber.ch/agenda/2025-03-16_jodeln_anf%C3%A4ngerinnen_lu/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2025-03-16_jodeln_anf%C3%A4ngerinnen_lu/</guid>
-      <description>&#xA;Jodeln für Anfänger*innen in Luzern Informationen und Anmeldung zum Kurs auf der Homepage der Klangwelt Toggenburg&#xA;Leitung: Simone Felber Datum So, 16. März 2025 // Musikraum Nr. 3, Grimselweg 5, 6005 Luzern​ </description>
-    </item>
-    <item>
-      <title>Jodelworkshop in Zürich</title>
-      <link>http://www.simonefelber.ch/agenda/2025-03-15_jodeln_anf%C3%A4ngerinnen/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2025-03-15_jodeln_anf%C3%A4ngerinnen/</guid>
-      <description>&#xA;Jodeln für Anfänger*innen in Zürich Informationen und Anmeldung zum Kurs auf der Homepage der Klangwelt Toggenburg&#xA;Leitung: Simone Felber Datum Sa, 15. März 2025 // Breitingersaal, Kulturhaus Helferei, Kirchgasse 13, 8001 Zürich </description>
     </item>
   </channel>
 </rss>
