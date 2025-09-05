@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Sa, 06. Dezember 2025 // 16:30 Uhr // Wallfahrtskirche Niederrickenbach // Konzertreihe A-Horn // [Information und Reservation](https://www.a-horn.ch/kopie-von-helenmaierandthefolks-2)
+* Sa, 06. Dezember 2025 // 16:30 Uhr // Wallfahrtskirche Niederrickenbach // Konzertreihe A-Horn // [Tickets](https://www.a-horn.ch/kopie-von-helenmaierandthefolks-2)

@@ -15,4 +15,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Mi, 15. Oktober 2025  // Kulturhof Hinter Musegg, Luzern // [Information und Reservation](https://www.hinter-musegg.ch/kalender) 
+* Mi, 15. Oktober 2025  // 20:00 Uhr // Kulturhof Hinter Musegg, Luzern // [Tickets](https://www.hinter-musegg.ch/kalender) 

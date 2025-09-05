@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Sa, 01. November 2025 // Kreuzkultur, Solothurn // [Information und Reservation](https://kreuzkultur.ch/home/)
+* Sa, 01. November 2025 // Kreuzkultur, Solothurn // [Tickets](https://kreuzkultur.ch/home/)

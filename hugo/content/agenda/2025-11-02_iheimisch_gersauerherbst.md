@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* So, 02. November 2025 // Der Herbst, Gersau // [Information und Reservation](https://derherbst.ch/programm-2025/)
+* So, 02. November 2025 // Der Herbst, Gersau // [Tickets](https://derherbst.ch/programm-2025/)
