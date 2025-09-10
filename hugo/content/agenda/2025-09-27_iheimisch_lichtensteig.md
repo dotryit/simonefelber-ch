@@ -1,5 +1,5 @@
 +++
-date = "2025-10-26"
+date = "2025-09-27"
 title = "Simone Felbers iheimisch"
 draft = false
 publishdate = "2000-01-01"
@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* So, 26. Oktober 2025 // 17:00 Uhr // Lesegesellschaft Stäfa // [Tickets](https://lesegesellschaft.ch/?filter=Konzert+und+Theater)
+* Sa, 27. September 2025 // 19:00 Uhr // Zukunft.Bahnhof // Lichtensteig // [Tickets](https://www.zukunftbahnhof.ch/event-details/super-saturday-simone-felbers-iheimisch-totatanz)
