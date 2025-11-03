@@ -2,46 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agendas on Simone Felber</title>
-    <link>http://localhost:1313/agenda/</link>
+    <link>http://www.simonefelber.ch/agenda/</link>
     <description>Recent content in Agendas on Simone Felber</description>
     <generator>Hugo 0.125.1</generator>
     <language>de-ch</language>
     <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/agenda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.simonefelber.ch/agenda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://localhost:1313/agenda/2026-01-17_iheimisch_horw/</link>
+      <link>http://www.simonefelber.ch/agenda/2026-01-17_iheimisch_horw/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-01-17_iheimisch_horw/</guid>
+      <guid>http://www.simonefelber.ch/agenda/2026-01-17_iheimisch_horw/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 17. Januar 2026 // 20:00 Uhr // Kluturmühle Horw // Tickets </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://localhost:1313/agenda/2025-12-06_iheimisch_niederrickenbach/</link>
+      <link>http://www.simonefelber.ch/agenda/2025-12-06_iheimisch_niederrickenbach/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2025-12-06_iheimisch_niederrickenbach/</guid>
+      <guid>http://www.simonefelber.ch/agenda/2025-12-06_iheimisch_niederrickenbach/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 06. Dezember 2025 // 16:30 Uhr // Wallfahrtskirche Niederrickenbach // Konzertreihe A-Horn // Tickets </description>
-    </item>
-    <item>
-      <title>Simone Felbers iheimisch</title>
-      <link>http://localhost:1313/agenda/2025-11-02_iheimisch_gersauerherbst/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2025-11-02_iheimisch_gersauerherbst/</guid>
-      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum So, 02. November 2025 // 17:00 Uhr // Der Herbst, Gersau // Tickets </description>
-    </item>
-    <item>
-      <title>Echo vom Eierstock</title>
-      <link>http://localhost:1313/agenda/2025-11-01_eve_solothurn/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2025-11-01_eve_solothurn/</guid>
-      <description>singt im Kreuz in Solothurn Echo vom Eierstock Simone Felber - musikalische Leitung Datum Sa, 01. November 2025 // Kreuzkultur, Solothurn // Tickets </description>
-    </item>
-    <item>
-      <title>Simone Felbers iheimisch</title>
-      <link>http://localhost:1313/agenda/2025-10-26_iheimisch_st%C3%A4fa/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2025-10-26_iheimisch_st%C3%A4fa/</guid>
-      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum So, 26. Oktober 2025 // 17:00 Uhr // Lesegesellschaft Stäfa // Tickets </description>
     </item>
   </channel>
 </rss>
