@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Sa, 17. Januar 2026 // 20:00 Uhr // Kluturmühle Horw // [Tickets](https://kulturmuehlehorw.ch/programm/simone-felbers-iheimisch-totaetanz)
+* Sa, 17. Januar 2026 // 20:00 Uhr // Kulturmühle Horw // [Tickets](https://kulturmuehlehorw.ch/programm/simone-felbers-iheimisch-totaetanz)
