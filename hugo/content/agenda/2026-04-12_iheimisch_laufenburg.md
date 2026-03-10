@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Di, 02. Juni 2026 // 20:00 Uhr // Kleintheater Luzern // [Tickets](https://www.kleintheater.ch/de/programm/15109-simone-felbers-iheimisch)
+So, 12. April 2026 // 19:00 Uhr // Stadthalle, Laufenburg // [Information](https://www.laufenburg.de/freizeit-erlebnis/veranstaltungen/veranstaltungskalender/1953/simone-felbers-iheimisch-totaetanz)
