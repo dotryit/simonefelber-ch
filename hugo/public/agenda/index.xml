@@ -2,74 +2,137 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agendas on Simone Felber</title>
-    <link>http://localhost:1313/agenda/</link>
+    <link>http://www.simonefelber.ch/agenda/</link>
     <description>Recent content in Agendas on Simone Felber</description>
     <generator>Hugo 0.125.1</generator>
     <language>de-ch</language>
     <lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/agenda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.simonefelber.ch/agenda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://localhost:1313/agenda/2026-10-25_iheimisch_beckenried/</link>
+      <link>http://www.simonefelber.ch/agenda/2026-10-25_iheimisch_beckenried/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-10-25_iheimisch_beckenried/</guid>
+      <guid>http://www.simonefelber.ch/agenda/2026-10-25_iheimisch_beckenried/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 24. Oktober 2026 // 20:00 Uhr // Ermitage Beckenried // Tickets </description>
     </item>
     <item>
-      <title>Echo vom Eierstock</title>
-      <link>http://localhost:1313/agenda/2026-05-22_eve_st%C3%A4fa/</link>
+      <title>OU Jodelfest Goldrain 2026</title>
+      <link>http://www.simonefelber.ch/agenda/2026-09-03_ou_goldrain/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-05-22_eve_st%C3%A4fa/</guid>
+      <guid>http://www.simonefelber.ch/agenda/2026-09-03_ou_goldrain/</guid>
+      <description>Workshops mit Simone Felber &amp;amp; Gilda Laneve Datum Do, 03. - So, 06. September 2026 // Goldrain, Südtirol // OU Jodelfest </description>
+    </item>
+    <item>
+      <title>Stubete am See</title>
+      <link>http://www.simonefelber.ch/agenda/2026-08-22_stubete-am-see/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-08-22_stubete-am-see/</guid>
+      <description>Simone Felbers Ländlerorchester 2026 Datum Sa, 22. - So, 23. August 2026 // Tonhalle, Zürich // Tickets </description>
+    </item>
+    <item>
+      <title>Simone Felbers iheimisch</title>
+      <link>http://www.simonefelber.ch/agenda/2026-08-13_iheimisch_altdorf/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-08-13_iheimisch_altdorf/</guid>
+      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 13. August 2026 // 19:30 Uhr // Kulturgarten, Altdorf // Information </description>
+    </item>
+    <item>
+      <title>Bergfahrt Bergün</title>
+      <link>http://www.simonefelber.ch/agenda/2026-06-12_bergfahrt_berg%C3%BCn/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-06-12_bergfahrt_berg%C3%BCn/</guid>
+      <description>Simone Felber solo Datum Fr, 12. - So, 14. Juni 2026 // Bergün // Tickets </description>
+    </item>
+    <item>
+      <title>Volkskulturfest Obwald</title>
+      <link>http://www.simonefelber.ch/agenda/2026-06-24_obwald/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-06-24_obwald/</guid>
+      <description>Duo Felber Würsch Datum Mi, 24. - So, 28. Juni 2026 // Waldlichtung Gsang, Giswil // Tickets </description>
+    </item>
+    <item>
+      <title>Echo vom Eierstock</title>
+      <link>http://www.simonefelber.ch/agenda/2026-06-20_eve_stans/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-06-20_eve_stans/</guid>
+      <description>singt bei Sinnklang in Stans Echo vom Eierstock Simone Felber - musikalische Leitung Datum Sa, 20. Juni 2026 // 11:30 // Pfarrkirche, Stans // Eintritt frei, Kollekte // Sinnklang </description>
+    </item>
+    <item>
+      <title>Simone Felbers iheimisch</title>
+      <link>http://www.simonefelber.ch/agenda/2026-06-02_iheimisch_kleintheater/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-06-02_iheimisch_kleintheater/</guid>
+      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Di, 02. Juni 2026 // 20:00 Uhr // Kleintheater Luzern // Tickets </description>
+    </item>
+    <item>
+      <title>Workshop Jodeln</title>
+      <link>http://www.simonefelber.ch/agenda/2026-05-31_jodeln-_rapperswil/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-05-31_jodeln-_rapperswil/</guid>
+      <description>Jodelkurs im Haus der Musik Rapperswil&#xA;Simone Felber - Leitung Datum So, 31. Mai 2026 // 12:30 bis 17:00 Uhr // Haus der Volksmusik, Rapperswil // Infromation und Anmeldung </description>
+    </item>
+    <item>
+      <title>Echo vom Eierstock</title>
+      <link>http://www.simonefelber.ch/agenda/2026-05-22_eve_st%C3%A4fa/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-05-22_eve_st%C3%A4fa/</guid>
       <description>singt im Kulturkarussell Stäfa Echo vom Eierstock Simone Felber - musikalische Leitung Datum Fr, 22. Mai 2026 // Kulturkarussell Stäfa // Tickets </description>
     </item>
     <item>
       <title>Woerdz</title>
-      <link>http://localhost:1313/agenda/2026-05-06_woerdz_luzern/</link>
+      <link>http://www.simonefelber.ch/agenda/2026-05-06_woerdz_luzern/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-05-06_woerdz_luzern/</guid>
+      <guid>http://www.simonefelber.ch/agenda/2026-05-06_woerdz_luzern/</guid>
       <description>Spoken Word Show &amp;amp; Musik Pedro Lenz, Martina Hügi, Gabriel Vetter, Daniela Dill - Woerdz Simone Felber - Stimme Bettina Spörri - Moderation Datum Mi, 06. Mai 2026 // 19:30 Uhr // Peterskapelle Luzern // Tickets </description>
     </item>
     <item>
-      <title>Zwischen Tradition und Moderne: Alpenklänge neu gedacht</title>
-      <link>http://localhost:1313/agenda/2026-04-26_f%C3%BChrung_museum_schwyz2/</link>
+      <title>döreschnuufe</title>
+      <link>http://www.simonefelber.ch/agenda/2026-05-01_famm_malters/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-04-26_f%C3%BChrung_museum_schwyz2/</guid>
+      <guid>http://www.simonefelber.ch/agenda/2026-05-01_famm_malters/</guid>
+      <description>das neue Programm von famm famm - Simone Felber, Claudia Greber, Sarah Höltschi, Sabrina Troxler Datum Fr, 01. Mai 2026 // 20:30 Uhr // Kulturschiene, Malters // Tickets </description>
+    </item>
+    <item>
+      <title>Zwischen Tradition und Moderne: Alpenklänge neu gedacht</title>
+      <link>http://www.simonefelber.ch/agenda/2026-04-26_f%C3%BChrung_museum_schwyz2/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-04-26_f%C3%BChrung_museum_schwyz2/</guid>
       <description>Expertinnenführung mit Simone Felber durch die aktuelle Ausstellung Volksmusik Datum So, 26. April 2026 // 11-12 Uhr // Forum Schweizer Geschichte, Schwyz // Tickets </description>
     </item>
     <item>
       <title>Veilchen träumen schon</title>
-      <link>http://localhost:1313/agenda/2026-04-23_fiz_singabend/</link>
+      <link>http://www.simonefelber.ch/agenda/2026-04-23_fiz_singabend/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-04-23_fiz_singabend/</guid>
+      <guid>http://www.simonefelber.ch/agenda/2026-04-23_fiz_singabend/</guid>
       <description>Singabend bei F*iZ Simone Felber, Leitung Datum Do, 23. April 2026 // 19.00 Uhr // Rhynauerhof, Luzern // Anmeldung F*iZ </description>
     </item>
     <item>
       <title>Wätterglüüt</title>
-      <link>http://localhost:1313/agenda/2026-04-15_iheimisch_stansermusiktage/</link>
+      <link>http://www.simonefelber.ch/agenda/2026-04-15_iheimisch_w%C3%A4ttergl%C3%BC%C3%BCt_stans/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-04-15_iheimisch_stansermusiktage/</guid>
-      <description>Nik Bärtschs RONIN X Simone Felbers iheimisch Datum Mi, 15. April 2026 // 20:30 Uhr // Stanser Musiktage // Theater an der Mürg, Stans // Tickets und Information </description>
+      <guid>http://www.simonefelber.ch/agenda/2026-04-15_iheimisch_w%C3%A4ttergl%C3%BC%C3%BCt_stans/</guid>
+      <description>Nik Bärtschs RONIN X Simone Felbers iheimisch Datum Mi, 15. April 2026 // 20:30 Uhr // Stanser Musiktage // Theater an der Mürg, Stans // Tickets </description>
+    </item>
+    <item>
+      <title>Wätterglüüt</title>
+      <link>http://www.simonefelber.ch/agenda/2026-04-13_iheimisch_w%C3%A4ttergl%C3%BC%C3%BCt_moods/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.simonefelber.ch/agenda/2026-04-13_iheimisch_w%C3%A4ttergl%C3%BC%C3%BCt_moods/</guid>
+      <description>Nik Bärtschs RONIN X Simone Felbers iheimisch Datum Mo, 13. April 2026 // 20:30 Uhr // Montagsspecial // Exil, Zürich // Tickets </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://localhost:1313/agenda/2026-04-12_iheimisch_laufenburg/</link>
+      <link>http://www.simonefelber.ch/agenda/2026-04-12_iheimisch_laufenburg/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-04-12_iheimisch_laufenburg/</guid>
+      <guid>http://www.simonefelber.ch/agenda/2026-04-12_iheimisch_laufenburg/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum So, 12. April 2026 // 19:00 Uhr // Stadthalle, Laufenburg // Information</description>
     </item>
     <item>
-      <title>Simone Felbers iheimisch</title>
-      <link>http://localhost:1313/agenda/2026-06-02_iheimisch_kleintheater/</link>
+      <title>zu Gast bei SRF Persönlich</title>
+      <link>http://www.simonefelber.ch/agenda/2026-04-05_pers%C3%B6nlich_k%C3%BCssnacht/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-06-02_iheimisch_kleintheater/</guid>
-      <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Di, 02. Juni 2026 // 20:00 Uhr // Kleintheater Luzern // Tickets </description>
-    </item>
-    <item>
-      <title>Lauralei</title>
-      <link>http://localhost:1313/agenda/2026-04-05_pers%C3%B6nlich_k%C3%BCssnacht/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/2026-04-05_pers%C3%B6nlich_k%C3%BCssnacht/</guid>
-      <description>eine musikalische Lesung Karin Künzle - Lesung Adrian Würsch - Schwyzerörgeli Elias Menzi - Hackbrett Simone Felber - Stimme Datum Fr, 10. Januar 2025 // 19:30 Uhr // Bibliothek Teufen AI </description>
+      <guid>http://www.simonefelber.ch/agenda/2026-04-05_pers%C3%B6nlich_k%C3%BCssnacht/</guid>
+      <description>Radiotalkshow Datum So, 05. April 2026 // 10:00 Uhr // Theater Duo Fischbach, Küssnacht // Information </description>
     </item>
   </channel>
 </rss>

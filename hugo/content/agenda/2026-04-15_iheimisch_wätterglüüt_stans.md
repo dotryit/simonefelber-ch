@@ -11,4 +11,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Mi, 15. April 2026 // 20:30 Uhr // Stanser Musiktage // Theater an der Mürg, Stans // [Tickets und Information](https://www.stansermusiktage.ch/nik-baertschs-ronin-simone-felbers-iheimisch/)
+* Mi, 15. April 2026 // 20:30 Uhr // Stanser Musiktage // Theater an der Mürg, Stans // [Tickets](https://www.stansermusiktage.ch/nik-baertschs-ronin-simone-felbers-iheimisch/)

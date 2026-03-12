@@ -1,5 +1,5 @@
 +++
-date = "2026-06-02"
+date = "2026-08-13"
 title = "Simone Felbers iheimisch"
 draft = false
 publishdate = "2000-01-01"
@@ -14,4 +14,4 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Di, 02. Juni 2026 // 20:00 Uhr // Kleintheater Luzern // [Tickets](https://www.kleintheater.ch/de/programm/15109-simone-felbers-iheimisch)
+* Do, 13. August 2026 // 19:30 Uhr // Kulturgarten, Altdorf // [Information](https://www.daetwyler-stiftung.ch/foerderung/stiftungseigene-aktivitaeten/beitraege/kultur-im-garten.html)
