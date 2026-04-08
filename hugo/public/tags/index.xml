@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Simone Felber</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://www.simonefelber.ch/tags/</link>
     <description>Recent content in Tags on Simone Felber</description>
     <generator>Hugo 0.125.1</generator>
     <language>de-ch</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.simonefelber.ch/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
