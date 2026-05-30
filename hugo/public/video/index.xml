@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videoes on Simone Felber</title>
-    <link>http://localhost:1313/video/</link>
+    <link>http://www.simonefelber.ch/video/</link>
     <description>Recent content in Videoes on Simone Felber</description>
     <generator>Hugo 0.125.1</generator>
     <language>de-ch</language>
-    <atom:link href="http://localhost:1313/video/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.simonefelber.ch/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/video/100_uslegeornig/</link>
+      <link>http://www.simonefelber.ch/video/100_uslegeornig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/video/100_uslegeornig/</guid>
+      <guid>http://www.simonefelber.ch/video/100_uslegeornig/</guid>
       <description>S’Toggeburger Ländlerjödeli&#xA;Masterabschluss uslegeornig, Neubad Luzern</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/video/110_uslegeornig/</link>
+      <link>http://www.simonefelber.ch/video/110_uslegeornig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/video/110_uslegeornig/</guid>
+      <guid>http://www.simonefelber.ch/video/110_uslegeornig/</guid>
       <description>Il est quelqu’un sur terre // Lamento // S’truurig Meitli&#xA;Masterabschluss uslegeornig, Neubad Luzern</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/video/120_famm_s/</link>
+      <link>http://www.simonefelber.ch/video/120_famm_s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/video/120_famm_s/</guid>
+      <guid>http://www.simonefelber.ch/video/120_famm_s/</guid>
       <description>famm Teaser 2 &amp;ldquo;s&amp;rsquo; - Ein Liederprogramm über s’Babeli, s’Liseli und andere starke Frauen.&amp;rdquo;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/video/130_item/</link>
+      <link>http://www.simonefelber.ch/video/130_item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/video/130_item/</guid>
+      <guid>http://www.simonefelber.ch/video/130_item/</guid>
       <description>Item</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/video/140_bluemli/</link>
+      <link>http://www.simonefelber.ch/video/140_bluemli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/video/140_bluemli/</guid>
+      <guid>http://www.simonefelber.ch/video/140_bluemli/</guid>
       <description>Ha ame ne Ort es Blüemeli gseh</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/video/150_matter_reloaded/</link>
+      <link>http://www.simonefelber.ch/video/150_matter_reloaded/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/video/150_matter_reloaded/</guid>
+      <guid>http://www.simonefelber.ch/video/150_matter_reloaded/</guid>
       <description>Matter Reloaded: Dr Dings</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/video/160_stadt_x_land/</link>
+      <link>http://www.simonefelber.ch/video/160_stadt_x_land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/video/160_stadt_x_land/</guid>
+      <guid>http://www.simonefelber.ch/video/160_stadt_x_land/</guid>
       <description>Stadt x Land: James Varghese x Simone Felber</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/video/170_typisch_volksmusik/</link>
+      <link>http://www.simonefelber.ch/video/170_typisch_volksmusik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/video/170_typisch_volksmusik/</guid>
+      <guid>http://www.simonefelber.ch/video/170_typisch_volksmusik/</guid>
       <description>Typisch Volksmusik: Balascht // Raucher vor de Klinik</description>
     </item>
   </channel>
