@@ -1,5 +1,5 @@
 ﻿+++
-date = "2026-06-24"
+date = "2026-06-12"
 title = "Bergfahrt Bergün"
 draft = false
 publishdate = "2000-01-01"
