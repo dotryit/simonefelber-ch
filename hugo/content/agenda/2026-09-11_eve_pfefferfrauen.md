@@ -15,5 +15,5 @@ publishdate = "2000-01-01"
 
 ### Datum
 
-* Fr, 11. Sept. 2026 // 19:00 Uhr & 20:30 Uhr // Peterskapelle Luzern // [Infos](https://chorische-suite.ch/die-luzerner-pfefferfrauen-1844-1845)
-* So, 13. Sept. 2026 // 16:00 Uhr, 18:00 & 20:00 Uhr // Culinarum Alpinum Stans // [Infos](https://chorische-suite.ch/die-luzerner-pfefferfrauen-1844-1845)
+* Fr, 11. Sept. 2026 // 19:00 Uhr & 20:30 Uhr // Peterskapelle Luzern // [Tickets](https://eventfrog.ch/de/p/gruppen/echo-vom-eierstock-die-luzerner-pfefferfrauen-1844-1845-7462891859104279533.html)
+* So, 13. Sept. 2026 // 16:00 Uhr, 18:00 & 20:00 Uhr // Culinarum Alpinum Stans // [Tickets](https://eventfrog.ch/de/p/gruppen/echo-vom-eierstock-die-luzerner-pfefferfrauen-1844-1845-7462891859104279533.html)
