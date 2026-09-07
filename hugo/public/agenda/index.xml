@@ -2,137 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agendas on Simone Felber</title>
-    <link>http://www.simonefelber.ch/agenda/</link>
+    <link>http://localhost:1313/agenda/</link>
     <description>Recent content in Agendas on Simone Felber</description>
     <generator>Hugo 0.125.1</generator>
     <language>de-ch</language>
     <lastBuildDate>Thu, 28 Jan 2027 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.simonefelber.ch/agenda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/agenda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duo Felber Würsch</title>
-      <link>http://www.simonefelber.ch/agenda/2027-01-28_im-grunde-ne-runde_olten/</link>
+      <link>http://localhost:1313/agenda/2027-01-28_im-grunde-ne-runde_olten/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2027-01-28_im-grunde-ne-runde_olten/</guid>
+      <guid>http://localhost:1313/agenda/2027-01-28_im-grunde-ne-runde_olten/</guid>
       <description>Im Grunde &amp;rsquo;ne Runde - Early Night-Late-Show Barbara Bleisch Charles Nguela Simone Felber Adrian Würsch Datum Do, 28. Januar 2027 // 20:00 Uhr // Schützi Olten // Tickets </description>
     </item>
     <item>
       <title>famm</title>
-      <link>http://www.simonefelber.ch/agenda/2026-12-18_famm_zug/</link>
+      <link>http://localhost:1313/agenda/2026-12-18_famm_zug/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-12-18_famm_zug/</guid>
+      <guid>http://localhost:1313/agenda/2026-12-18_famm_zug/</guid>
       <description>döreschnuufe famm - Simone Felber, Claudia Greber, Sarah Höltschi, Sabrina Troxler Datum Fr, 18. Dezember 2026 // 20:00 // Theater im Burgbachkeller, Zug // Tickets </description>
     </item>
     <item>
       <title>Echo vom Eierstock</title>
-      <link>http://www.simonefelber.ch/agenda/2026-12-12_eve_langenthal/</link>
+      <link>http://localhost:1313/agenda/2026-12-12_eve_langenthal/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-12-12_eve_langenthal/</guid>
+      <guid>http://localhost:1313/agenda/2026-12-12_eve_langenthal/</guid>
       <description>singt im Stadttheater Langenthal Echo vom Eierstock Simone Felber - musikalische Leitung Datum Sa, 12. Dezember 2026 // 19:30 // Stadttheater Langenthal // Tickets </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://www.simonefelber.ch/agenda/2026-12-10_iheimisch_folkclub_z%C3%BCrich/</link>
+      <link>http://localhost:1313/agenda/2026-12-10_iheimisch_folkclub_z%C3%BCrich/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-12-10_iheimisch_folkclub_z%C3%BCrich/</guid>
+      <guid>http://localhost:1313/agenda/2026-12-10_iheimisch_folkclub_z%C3%BCrich/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 10. Dezember 2026 // 20:00 Uhr // Folk Club Zürich // GZ Riesbach, Seefeldstrasse 93, Zürich // Tickets </description>
     </item>
     <item>
       <title>Duo Felber Würsch</title>
-      <link>http://www.simonefelber.ch/agenda/2026-11-21_felber_w%C3%BCrsch_trachtenverein/</link>
+      <link>http://localhost:1313/agenda/2026-11-21_felber_w%C3%BCrsch_trachtenverein/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-11-21_felber_w%C3%BCrsch_trachtenverein/</guid>
+      <guid>http://localhost:1313/agenda/2026-11-21_felber_w%C3%BCrsch_trachtenverein/</guid>
       <description>Jubiläumsabend zum 100-jährigen Bestehen der Schweizerischen Trachtenvereinigung Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Datum Sa, 21. November 2026 // Hotel Schweizerhof, Luzern // Infos </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://www.simonefelber.ch/agenda/2026-11-20_iheimisch_basel/</link>
+      <link>http://localhost:1313/agenda/2026-11-20_iheimisch_basel/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-11-20_iheimisch_basel/</guid>
+      <guid>http://localhost:1313/agenda/2026-11-20_iheimisch_basel/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Fr, 20. November 2026 // Predigerkirche, Basel </description>
     </item>
     <item>
       <title>Isabelle</title>
-      <link>http://www.simonefelber.ch/agenda/2026-11-14_iheimisch_haendelchor/</link>
+      <link>http://localhost:1313/agenda/2026-11-14_iheimisch_haendelchor/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-11-14_iheimisch_haendelchor/</guid>
+      <guid>http://localhost:1313/agenda/2026-11-14_iheimisch_haendelchor/</guid>
       <description>Konzert mit dem Händelchor Luzern Auftragskomposition von Stephan Hodel nach Texten von Isabelle Kaiser Händelchor Luzern Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Jana Avazini - Texte Benjamin Rapp - Leitung Datum Sa, 14. November 2026 // 19:30 Uhr // Kirche St. Karl, Luzern // Tickets So, 15. November 2026 // 17:00 Uhr // Kirche St. Karl, Luzern // Tickets </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://www.simonefelber.ch/agenda/2026-11-12_iheimisch_bern/</link>
+      <link>http://localhost:1313/agenda/2026-11-12_iheimisch_bern/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-11-12_iheimisch_bern/</guid>
+      <guid>http://localhost:1313/agenda/2026-11-12_iheimisch_bern/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Do, 12. November 2026 // 18:30 Uhr // Forum elle // Aula PROGR Waisenhausplatz, Bern // Anmeldung </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://www.simonefelber.ch/agenda/2026-11-06_iheimisch_brig/</link>
+      <link>http://localhost:1313/agenda/2026-11-06_iheimisch_brig/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-11-06_iheimisch_brig/</guid>
+      <guid>http://localhost:1313/agenda/2026-11-06_iheimisch_brig/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Fr, 06. November 2026 // 19:00 Uhr // Berg Buch Brig // Zeughaus Kultur, Brig-Glis // Tickets </description>
     </item>
     <item>
       <title>Alpensounds</title>
-      <link>http://www.simonefelber.ch/agenda/2026-11-05_alpensounds_bern/</link>
+      <link>http://localhost:1313/agenda/2026-11-05_alpensounds_bern/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-11-05_alpensounds_bern/</guid>
+      <guid>http://localhost:1313/agenda/2026-11-05_alpensounds_bern/</guid>
       <description>Eröffnung der Ausstellung Alpensounds im ALPS Sounds - Simone Felber &amp;amp; Adrian Würsch Datum Do, 05. November 2026 // Alpines Museeum der Schweiz, Bern // Infos </description>
     </item>
     <item>
       <title>famm</title>
-      <link>http://www.simonefelber.ch/agenda/2026-10-31_famm_liestal/</link>
+      <link>http://localhost:1313/agenda/2026-10-31_famm_liestal/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-10-31_famm_liestal/</guid>
+      <guid>http://localhost:1313/agenda/2026-10-31_famm_liestal/</guid>
       <description>döreschnuufe famm - Simone Felber, Claudia Greber, Sarah Höltschi, Sabrina Troxler Datum Sa, 31. Oktober 2026 // Kulturscheune, Liestal // Infos </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://www.simonefelber.ch/agenda/2026-10-24_iheimisch_beckenried/</link>
+      <link>http://localhost:1313/agenda/2026-10-24_iheimisch_beckenried/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-10-24_iheimisch_beckenried/</guid>
+      <guid>http://localhost:1313/agenda/2026-10-24_iheimisch_beckenried/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 24. Oktober 2026 // 20:00 Uhr // Ermitage Beckenried // Tickets </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://www.simonefelber.ch/agenda/2026-10-23_iheimisch_affoltern-am-albis/</link>
+      <link>http://localhost:1313/agenda/2026-10-23_iheimisch_affoltern-am-albis/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-10-23_iheimisch_affoltern-am-albis/</guid>
+      <guid>http://localhost:1313/agenda/2026-10-23_iheimisch_affoltern-am-albis/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Fr, 23. Oktober 2026 // 20:15 Uhr // Galerie Märtplatz, Affoltern am Albis // Infos </description>
     </item>
     <item>
       <title>Simone Felbers iheimisch</title>
-      <link>http://www.simonefelber.ch/agenda/2026-10-17_iheimisch_oberkirch/</link>
+      <link>http://localhost:1313/agenda/2026-10-17_iheimisch_oberkirch/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-10-17_iheimisch_oberkirch/</guid>
+      <guid>http://localhost:1313/agenda/2026-10-17_iheimisch_oberkirch/</guid>
       <description>totätanz Simone Felber - Gesang Adrian Würsch - Schwyzerörgeli Polina Niederhauser - Cello Rafael Jerjen - Kontrabass Datum Sa, 17. Oktober 2026 // 18:30 Uhr Barbetrieb // 19:30 Uhr Konzert // Gemeindesaal Oberkirch // Kollekte // Infos </description>
     </item>
     <item>
       <title>SoundSo - Aktuelle Schweizer Volksmusik</title>
-      <link>http://www.simonefelber.ch/agenda/2026-09-22_soundso_neubad/</link>
+      <link>http://localhost:1313/agenda/2026-09-22_soundso_neubad/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-09-22_soundso_neubad/</guid>
+      <guid>http://localhost:1313/agenda/2026-09-22_soundso_neubad/</guid>
       <description>Martina Berther &amp;amp; Juliana Kubli and Friends Datum Di, 22. September 2026 // 20:00 Uhr // Neubad, Luzern // Tickets </description>
     </item>
     <item>
       <title>Label Suisse Festival Lausanne</title>
-      <link>http://www.simonefelber.ch/agenda/2026-09-19_labelsuisse/</link>
+      <link>http://localhost:1313/agenda/2026-09-19_labelsuisse/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-09-19_labelsuisse/</guid>
+      <guid>http://localhost:1313/agenda/2026-09-19_labelsuisse/</guid>
       <description>Simone Felbers Ländlerorchester Datum Sa, 19. September 2026 // 20:30 Uhr // Kirche Saint-François, Lausanne // Infos </description>
     </item>
     <item>
       <title>Echo vom Eierstock</title>
-      <link>http://www.simonefelber.ch/agenda/2026-09-11_eve_pfefferfrauen/</link>
+      <link>http://localhost:1313/agenda/2026-09-11_eve_pfefferfrauen/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-09-11_eve_pfefferfrauen/</guid>
+      <guid>http://localhost:1313/agenda/2026-09-11_eve_pfefferfrauen/</guid>
       <description>Pfefferfrauen - Chorische Suite - Uraufführung Jean-François Michel - Komposition Liliana Heimberg - Libretto Simone Felber - Leitung Datum Fr, 11. Sept. 2026 // 19:00 Uhr &amp;amp; 20:30 Uhr // Peterskapelle Luzern // Infos So, 13. Sept. 2026 // 16:00 Uhr, 18:00 &amp;amp; 20:00 Uhr // Culinarum Alpinum Stans // Infos </description>
-    </item>
-    <item>
-      <title>OU Jodelfest Goldrain 2026</title>
-      <link>http://www.simonefelber.ch/agenda/2026-09-03_ou_goldrain/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.simonefelber.ch/agenda/2026-09-03_ou_goldrain/</guid>
-      <description>Workshops mit Simone Felber &amp;amp; Gilda Laneve Datum Do, 03. - So, 06. September 2026 // Goldrain, Südtirol // OU Jodelfest </description>
     </item>
   </channel>
 </rss>
