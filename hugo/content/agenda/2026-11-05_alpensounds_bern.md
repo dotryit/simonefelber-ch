@@ -1,14 +1,15 @@
 ﻿﻿+++
-date = "2026-11-05"
-title = "Alpensounds"
+date = "2026-11-06"
+title = "Alpensounds im ALPS"
 draft = false
 publishdate = "2000-01-01"
 +++
-### Eröffnung der Ausstellung Alpensounds im ALPS
-<br>
+### Ausstellung: Volksmusik zwischen Erbe und Experiment
 
+
+<br>
 
 * Sounds - Simone Felber & Adrian Würsch
 ### Datum
 
-* Do, 05. November 2026  // Alpines Museeum der Schweiz, Bern // [Infos](https://alps.museum/) 
+* ab 06. November 2026  // Alpines Museeum der Schweiz, Bern // [Infos](https://alps.museum/) 
