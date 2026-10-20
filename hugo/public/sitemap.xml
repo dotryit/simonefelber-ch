@@ -2,13 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.simonefelber.ch/bio/01_studium/</loc>
+    <loc>http://www.simonefelber.ch/bio/01_grundlage/</loc>
   </url><url>
-    <loc>http://www.simonefelber.ch/bio/02_jodel/</loc>
+    <loc>http://www.simonefelber.ch/bio/02_schaffen/</loc>
   </url><url>
-    <loc>http://www.simonefelber.ch/bio/03_unterricht/</loc>
-  </url><url>
-    <loc>http://www.simonefelber.ch/bio/04_auszeichnungen/</loc>
+    <loc>http://www.simonefelber.ch/bio/03_auszeichnung/</loc>
   </url><url>
     <loc>http://www.simonefelber.ch/agenda/</loc>
     <lastmod>2027-03-07T00:00:00+00:00</lastmod>
@@ -25,6 +23,9 @@
     <loc>http://www.simonefelber.ch/agenda/2027-01-17_feministisch_jodeln_gallatti_zh/</loc>
     <lastmod>2027-01-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.simonefelber.ch/agenda/2026-11-21_felber_w%C3%BCrsch_trachtenverein/</loc>
+    <lastmod>2027-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.simonefelber.ch/agenda/2026-12-20_eve_theater_uri_stucky/</loc>
     <lastmod>2026-12-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -37,7 +38,7 @@
     <loc>http://www.simonefelber.ch/agenda/2026-12-10_iheimisch_folkclub_z%C3%BCrich/</loc>
     <lastmod>2026-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.simonefelber.ch/agenda/2026-11-21_felber_w%C3%BCrsch_trachtenverein/</loc>
+    <loc>http://www.simonefelber.ch/agenda/2027-01-01_felber_w%C3%BCrsch_neujahrskonzert_basel/</loc>
     <lastmod>2026-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.simonefelber.ch/agenda/2026-11-20_iheimisch_basel/</loc>
@@ -971,14 +972,6 @@
     <loc>http://www.simonefelber.ch/foto/998_georgien/</loc>
   </url><url>
     <loc>http://www.simonefelber.ch/foto/999_stage_lab/</loc>
-  </url><url>
-    <loc>http://www.simonefelber.ch/video/100_uslegeornig/</loc>
-  </url><url>
-    <loc>http://www.simonefelber.ch/video/110_uslegeornig/</loc>
-  </url><url>
-    <loc>http://www.simonefelber.ch/video/120_famm_s/</loc>
-  </url><url>
-    <loc>http://www.simonefelber.ch/video/130_item/</loc>
   </url><url>
     <loc>http://www.simonefelber.ch/video/140_bluemli/</loc>
   </url><url>

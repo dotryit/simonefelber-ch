@@ -1,15 +1,16 @@
 ﻿+++
-date = "2026-11-21"
+date = "2027-01-01"
 title = "Duo Felber Würsch"
 draft = false
 publishdate = "2000-01-01"
 +++
-### Jubiläumsabend zum 100-jährigen Bestehen der Schweizerischen Trachtenvereinigung
+### zu Gast am Neujahrskonzert des Neuen Orchesters Basel
 <br>
 
+* [Neues Orchester Basel](https://www.neuesorchesterbasel.ch/)
 * Simone Felber - Gesang
 * [Adrian Würsch](https://www.adrianwuersch.com/aktuell) - Schwyzerörgeli
 
 ### Datum
 
-* Sa, 21. November 2026 // Hotel Schweizerhof, Luzern // [Infos](https://www.trachtenvereinigung.ch/de/100-jahre-stv)
+* Fr, 01. Januar 2027 // 17:00 Uhr // Stadtcasino Basel // [Tickets](https://www.neuesorchesterbasel.ch/konzert/4-abo-konzert-25-26)
