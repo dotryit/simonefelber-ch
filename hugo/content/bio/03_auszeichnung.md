@@ -4,4 +4,4 @@ title = "Auszeichnung"
 draft = false
 +++
 
-Für ihr vielfältiges musikalisches Schaffen wurde Sie 2024 vom Bundesamt für Kultur mit dem Schweizer Musikpreis ausgezeichnet.
+Für ihr vielfältiges musikalisches Schaffen wurde sie 2024 vom Bundesamt für Kultur mit dem Schweizer Musikpreis ausgezeichnet.
