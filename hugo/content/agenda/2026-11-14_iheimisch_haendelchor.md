@@ -12,7 +12,7 @@ Auftragskomposition von [Stephan Hodel](https://www.stephanhodel.com/) nach Text
 * Simone Felber - Gesang
 * [Adrian Würsch](https://www.adrianwuersch.com/aktuell) - Schwyzerörgeli
 * [Polina Niederhauser](https://polinaniederhauser.ch/) - Cello
-* [Rafael Jerjen](https://rafaeljerjen.ch/) - Kontrabass
+* [Simon Iten](https://www.instagram.com/nomisneti/) - Kontrabass
 * [Jana Avazini](https://www.jana-avanzini.ch/) - Texte
 * [Benjamin Rapp](https://www.benjaminrapp.ch/) - Leitung
 
