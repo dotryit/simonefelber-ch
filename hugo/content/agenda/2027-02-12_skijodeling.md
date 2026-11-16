@@ -1,5 +1,5 @@
 +++
-date = "2027-02-124"
+date = "2027-02-12"
 title = "Skijodeling"
 draft = false
 publishdate = "2000-01-01"
